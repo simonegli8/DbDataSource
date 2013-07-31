@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbDataSource", "DbDataSource.csproj", "{81F862B0-5377-49F6-9D85-A40806AFACE4}"
+EndProject
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "Documentation", "Doc\Documentation\Documentation.shfbproj", "{E2C7050C-FB0E-47A2-ABDE-300E91329C92}"
+	ProjectSection(ProjectDependencies) = postProject
+		{81F862B0-5377-49F6-9D85-A40806AFACE4} = {81F862B0-5377-49F6-9D85-A40806AFACE4}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81F862B0-5377-49F6-9D85-A40806AFACE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F862B0-5377-49F6-9D85-A40806AFACE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F862B0-5377-49F6-9D85-A40806AFACE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F862B0-5377-49F6-9D85-A40806AFACE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C7050C-FB0E-47A2-ABDE-300E91329C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C7050C-FB0E-47A2-ABDE-300E91329C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C7050C-FB0E-47A2-ABDE-300E91329C92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
