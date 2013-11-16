@@ -5,7 +5,7 @@ using System.Text;
 using System.Collections;
 using System.ComponentModel;
 
-namespace Silversite.Web.UI
+namespace System.Web.UI.WebControls 
 {
     public class GenericArgsDataItem
     {

@@ -21,8 +21,8 @@
     <ApiFilter />
     <ComponentConfigurations />
     <DocumentationSources>
-      <DocumentationSource sourceFile="..\..\bin\Debug\DbDataSource.XML" />
-      <DocumentationSource sourceFile="..\..\bin\Debug\DbDataSource.dll" />
+      <DocumentationSource sourceFile="..\..\bin\Release\EntityFramework.Web.UI.dll" />
+      <DocumentationSource sourceFile="..\..\bin\Release\EntityFramework.Web.UI.xml" />
     </DocumentationSources>
     <HelpAttributes />
     <NamespaceSummaries />

@@ -2,127 +2,127 @@
 <HelpKI>
 
   <HelpKINode Title="Any method" Url="html/130d2d84-4ff9-dda1-d062-ceaeaca3845a.htm" />
-  <HelpKINode Title="AutoPage property" Url="html/21503a1c-48db-8ee7-383f-47f29fd80e9b.htm" />
-  <HelpKINode Title="AutoPage property" Url="html/4d377899-89d8-9bd7-6bb7-24bf1650e0aa.htm" />
-  <HelpKINode Title="AutoSort property" Url="html/24be0e22-d5d6-b53a-ca8e-19056099057d.htm" />
-  <HelpKINode Title="AutoSort property" Url="html/6e214e32-0d9e-59ae-f726-2409c0e712d5.htm" />
-  <HelpKINode Title="BuildObject(Of T) method" Url="html/128d58aa-f806-a67e-43fb-d63b6821c6c1.htm" />
-  <HelpKINode Title="BuildObject&lt;T&gt; method" Url="html/128d58aa-f806-a67e-43fb-d63b6821c6c1.htm" />
-  <HelpKINode Title="CanPage property" Url="html/9f68a37f-d369-1024-cdb4-2e231ca50fe7.htm" />
-  <HelpKINode Title="CanRetrieveTotalRowCount property" Url="html/928a5057-44fd-6297-d53b-a7e0d48b4d55.htm" />
-  <HelpKINode Title="Context property" Url="html/757de5c9-2c53-92e4-b69f-6446f6277a1c.htm" />
-  <HelpKINode Title="Context property" Url="html/7a2bb9d1-5c78-fd3b-ba78-b7f2c8710291.htm" />
-  <HelpKINode Title="Context property" Url="html/cf3ba697-87eb-4b2c-9b88-8df77375ac3d.htm" />
-  <HelpKINode Title="ContextType property" Url="html/f69db2e4-a303-514f-0cce-ad8d20a48b06.htm" />
-  <HelpKINode Title="ConvertTo method" Url="html/c2e08221-f047-08fd-ca41-9ef4891fc479.htm" />
+  <HelpKINode Title="AutoPage property" Url="html/9442141b-58e0-a399-27fd-a60d1cb9af5a.htm" />
+  <HelpKINode Title="AutoPage property" Url="html/94d305eb-c8a9-e925-6a81-dbb5e4368617.htm" />
+  <HelpKINode Title="AutoSort property" Url="html/b2dd50c9-c7b5-d970-761a-8f1398473045.htm" />
+  <HelpKINode Title="AutoSort property" Url="html/e916b55c-a0a4-711b-7403-1dcfb6fd413e.htm" />
+  <HelpKINode Title="BuildObject(Of T) method" Url="html/3a325920-fc08-02d6-4c3d-ee785a625dde.htm" />
+  <HelpKINode Title="BuildObject&lt;T&gt; method" Url="html/3a325920-fc08-02d6-4c3d-ee785a625dde.htm" />
+  <HelpKINode Title="CanPage property" Url="html/32ce2a45-29ef-7d59-b2ec-ea01dd2521d6.htm" />
+  <HelpKINode Title="CanRetrieveTotalRowCount property" Url="html/30bc42e9-40df-e708-9dd5-94ecbec67705.htm" />
+  <HelpKINode Title="Context property" Url="html/4c2f7d29-08e7-b2a7-19e7-64590831112e.htm" />
+  <HelpKINode Title="Context property" Url="html/d2201a78-0900-e282-da97-46d200ef6264.htm" />
+  <HelpKINode Title="Context property" Url="html/efaf0c61-dbe0-c391-7192-4006527c817e.htm" />
+  <HelpKINode Title="ContextType property" Url="html/384ed670-7558-f76c-59c1-2edbb434d9ee.htm" />
+  <HelpKINode Title="ConvertTo method" Url="html/3a180d61-33f5-218c-c8ac-541583ed0c14.htm" />
   <HelpKINode Title="Count method" Url="html/06e779e6-8449-ffd6-1422-3bd6c110565a.htm" />
   <HelpKINode Title="CreateClass method" Url="html/47bc807e-8241-96ef-cfe1-1974ba427f09.htm" />
-  <HelpKINode Title="CreateContext property" Url="html/3ce02d77-f059-b8ae-0a71-9eafc703d57a.htm" />
-  <HelpKINode Title="CreateContext property" Url="html/9d1e213e-e124-65b8-d14e-5e35c867014f.htm" />
-  <HelpKINode Title="CreateObjectContext property" Url="html/9abfa15e-7681-ee21-fb1e-1c1bbf18a99e.htm" />
-  <HelpKINode Title="CreateObjectContext property" Url="html/cddc3319-7cc8-0cb6-3e30-18a49dbe597b.htm" />
-  <HelpKINode Title="Data property" Url="html/a57177c3-9aab-e666-cb50-465e7799ebe3.htm" />
-  <HelpKINode Title="Data property" Url="html/f38f5661-cc5e-06ce-93ff-8ca53f238a6b.htm" />
-  <HelpKINode Title="DataItem property" Url="html/a7c4d212-2679-9e54-c0d6-71d9748d2ffa.htm" />
-  <HelpKINode Title="DataSource property" Url="html/34dbb290-1dcb-0926-e268-50e20630f317.htm" />
-  <HelpKINode Title="DataSource property" Url="html/cd9d909d-f25b-89c7-5f01-fe399ed99df4.htm" />
-  <HelpKINode Title="DbDataSource class" Url="html/484ff0f6-c64f-0382-da71-8279f49a6222.htm" />
-  <HelpKINode Title="DbDataSource class" Url="html/c2f34b9f-d6d1-474d-8e7a-9aae52f37f24.htm" />
+  <HelpKINode Title="CreateContext property" Url="html/98551c34-8385-f2a6-ea3b-4a7f6be65768.htm" />
+  <HelpKINode Title="CreateContext property" Url="html/f76714c9-572e-6589-e644-a92593f7584f.htm" />
+  <HelpKINode Title="CreateObjectContext property" Url="html/02efae66-05d4-9207-8f0f-18db718777f6.htm" />
+  <HelpKINode Title="CreateObjectContext property" Url="html/45ecc0a9-e674-2534-2e04-c3b9e0956d92.htm" />
+  <HelpKINode Title="Data property" Url="html/3eb49150-c10c-1c0a-7b0c-3b14dfeadc25.htm" />
+  <HelpKINode Title="Data property" Url="html/e11defa7-a75a-9dc2-a933-33e57c507634.htm" />
+  <HelpKINode Title="Database property" Url="html/167c429a-16d4-7f4a-4ee0-5aa0c7afc4bc.htm" />
+  <HelpKINode Title="Database property" Url="html/76c49f3f-7d45-26e5-0921-3c47d5c737c3.htm" />
+  <HelpKINode Title="DataItem property" Url="html/6a920f40-6a11-3742-2cf6-80bec050d099.htm" />
+  <HelpKINode Title="DataSource property" Url="html/10d4363e-5a30-72e7-1182-e9659c43dd8f.htm" />
+  <HelpKINode Title="DataSource property" Url="html/4d36bdfc-757c-930d-a0f8-2692b4e50eda.htm" />
+  <HelpKINode Title="DbDataSource class" Url="html/8437ba14-f9d2-aaa2-9426-0be251eeb4bc.htm" />
+  <HelpKINode Title="DbDataSource class" Url="html/acbc412f-7722-5cdc-7729-b5226e074882.htm" />
   <HelpKINode Title="DbDataSource class">
-    <HelpKINode Title="about DbDataSource class" Url="html/c2f34b9f-d6d1-474d-8e7a-9aae52f37f24.htm" />
-    <HelpKINode Title="all members" Url="html/484ff0f6-c64f-0382-da71-8279f49a6222.htm" />
-    <HelpKINode Title="constructor" Url="html/f32a1fcb-0208-83ae-7dc8-705a230d265d.htm" />
-    <HelpKINode Title="events" Url="html/7ea30b26-995b-e4ee-312b-76d803d41c09.htm" />
-    <HelpKINode Title="fields" Url="html/1dd84fc3-b757-4fa3-0325-f87289beb180.htm" />
-    <HelpKINode Title="methods" Url="html/00bc46fa-6b8e-3765-c008-e93b8cf97318.htm" />
-    <HelpKINode Title="properties" Url="html/bc440c9f-051b-19c5-5d2e-fe58012270bc.htm" />
+    <HelpKINode Title="about DbDataSource class" Url="html/8437ba14-f9d2-aaa2-9426-0be251eeb4bc.htm" />
+    <HelpKINode Title="all members" Url="html/acbc412f-7722-5cdc-7729-b5226e074882.htm" />
+    <HelpKINode Title="constructor" Url="html/10a71b1c-319a-ab4d-4438-8bad1249755a.htm" />
+    <HelpKINode Title="events" Url="html/6bc8774e-3a2c-e313-353e-284b748f1419.htm" />
+    <HelpKINode Title="methods" Url="html/3e77a239-a724-f601-da80-f3a44164f49f.htm" />
+    <HelpKINode Title="properties" Url="html/aab64b00-1a06-6d62-da19-69c56763c082.htm" />
   </HelpKINode>
-  <HelpKINode Title="DbDataSource(Of TContext, TElement) class" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement) class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement) class" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement) class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm" />
   <HelpKINode Title="DbDataSource(Of TContext, TElement) class">
-    <HelpKINode Title="about DbDataSource(Of TContext, TElement) class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm" />
-    <HelpKINode Title="all members" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-    <HelpKINode Title="constructor" Url="html/039117bc-2338-77da-0716-ef5e94cb6eb9.htm" />
-    <HelpKINode Title="events" Url="html/d25cdfb6-bd11-3609-3a05-9efef747cdfd.htm" />
-    <HelpKINode Title="fields" Url="html/808466a9-d86f-a2a9-3432-6b6f1661d2ea.htm" />
-    <HelpKINode Title="methods" Url="html/2f7918c4-8f05-65b6-669d-fd45e3606fa6.htm" />
-    <HelpKINode Title="properties" Url="html/3891ef8c-9300-cfe5-0799-b4714984a201.htm" />
+    <HelpKINode Title="about DbDataSource(Of TContext, TElement) class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm" />
+    <HelpKINode Title="all members" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+    <HelpKINode Title="constructor" Url="html/e17e107a-80ea-5240-20e9-382cb1139f7b.htm" />
+    <HelpKINode Title="events" Url="html/d3992310-40ed-f874-b77b-5c5ceeb2f273.htm" />
+    <HelpKINode Title="fields" Url="html/b7d7bc1f-a1a9-4f01-bd42-817365a29251.htm" />
+    <HelpKINode Title="methods" Url="html/e3cba652-88e3-ddd8-d1a8-127c5cb85fed.htm" />
+    <HelpKINode Title="properties" Url="html/eea13e5c-7542-5cb8-b78a-46112506d1a9.htm" />
   </HelpKINode>
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).Context property" Url="html/7a2bb9d1-5c78-fd3b-ba78-b7f2c8710291.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).CreateContext property" Url="html/9d1e213e-e124-65b8-d14e-5e35c867014f.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).CreateObjectContext property" Url="html/cddc3319-7cc8-0cb6-3e30-18a49dbe597b.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).Data property" Url="html/a57177c3-9aab-e666-cb50-465e7799ebe3.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).DbDataSource constructor" Url="html/039117bc-2338-77da-0716-ef5e94cb6eb9.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).EnableDelete property" Url="html/0c4af372-65d0-81bf-afed-54a91cfc1f24.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).EnableInsert property" Url="html/30da45c8-fe05-3732-0702-bc29f153b4e0.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).EnableUpdate property" Url="html/e793750b-0206-383b-433c-8b4e60cb8ed3.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).Exception event" Url="html/974fb93a-54ad-e8c6-b965-2a5fbe87726c.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnDataBinding method" Url="html/a0506c60-2781-5d52-2521-b85dec3f0e0c.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnDelete method" Url="html/56e1c9ec-cd7a-83f1-295f-8bb3ec9ceee0.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnInsert method" Url="html/3f5c652a-5dfd-9778-8e10-10e8906094f6.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnSelect method" Url="html/b022a61e-66f2-b239-af82-64a523396730.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnUnload method" Url="html/2c3fce6a-9bb8-f9ae-90f1-6a2a0162aa59.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnUpdate method" Url="html/b01051f9-b173-9d9b-be97-23744a813020.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).Projection property" Url="html/4e9cf4fb-5834-3a6f-0dd3-444a0e247277.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).Select property" Url="html/f11dc0bb-6eba-67e3-ab1d-8cb0dcdb4e84.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).ViewName field" Url="html/aee5649a-eb36-8463-ca72-6669de98cbfc.htm" />
-  <HelpKINode Title="DbDataSource(Of TContext, TElement).Where property" Url="html/f01f66fc-e441-4e1f-3367-578ca4e93eef.htm" />
-  <HelpKINode Title="DbDataSource.Context property" Url="html/757de5c9-2c53-92e4-b69f-6446f6277a1c.htm" />
-  <HelpKINode Title="DbDataSource.ContextType property" Url="html/f69db2e4-a303-514f-0cce-ad8d20a48b06.htm" />
-  <HelpKINode Title="DbDataSource.CreateContext property" Url="html/3ce02d77-f059-b8ae-0a71-9eafc703d57a.htm" />
-  <HelpKINode Title="DbDataSource.CreateObjectContext property" Url="html/9abfa15e-7681-ee21-fb1e-1c1bbf18a99e.htm" />
-  <HelpKINode Title="DbDataSource.Data property" Url="html/f38f5661-cc5e-06ce-93ff-8ca53f238a6b.htm" />
-  <HelpKINode Title="DbDataSource.DbDataSource constructor" Url="html/f32a1fcb-0208-83ae-7dc8-705a230d265d.htm" />
-  <HelpKINode Title="DbDataSource.EnableDelete property" Url="html/2a760335-f8d4-66c6-2eed-ab2f4300d926.htm" />
-  <HelpKINode Title="DbDataSource.EnableInsert property" Url="html/54cdf05f-a64f-4a42-7ff9-67347d86d580.htm" />
-  <HelpKINode Title="DbDataSource.EnableUpdate property" Url="html/d2317ebb-edb0-005d-447f-a14d033a4988.htm" />
-  <HelpKINode Title="DbDataSource.EntitySetName property" Url="html/2f615a03-595e-7d44-2698-85f8f3c36d86.htm" />
-  <HelpKINode Title="DbDataSource.Exception event" Url="html/5ed2bf93-4dfd-bc2d-d425-708c0baf5c3c.htm" />
-  <HelpKINode Title="DbDataSource.OnDataBinding method" Url="html/9778c940-8573-4dd9-ac8a-72c4236730f8.htm" />
-  <HelpKINode Title="DbDataSource.OnDelete method" Url="html/9852b833-27ba-3e98-37c6-b353c70816c8.htm" />
-  <HelpKINode Title="DbDataSource.OnInsert method" Url="html/81ca3307-1f39-073f-7979-63378e2abc82.htm" />
-  <HelpKINode Title="DbDataSource.OnSelect method" Url="html/b952dd3c-6170-2be2-55b9-e8827563e864.htm" />
-  <HelpKINode Title="DbDataSource.OnUnload method" Url="html/6ff8f162-6721-6c07-e2d0-594404749a0a.htm" />
-  <HelpKINode Title="DbDataSource.OnUpdate method" Url="html/70d5f6f9-0a1a-91da-703b-7c4629c35272.htm" />
-  <HelpKINode Title="DbDataSource.Projection property" Url="html/4f272bf6-feab-8f9d-42ef-96d55e907eb8.htm" />
-  <HelpKINode Title="DbDataSource.Select property" Url="html/04bfd718-2688-6d07-3689-46bcbf9428ce.htm" />
-  <HelpKINode Title="DbDataSource.Set property" Url="html/e83b26bd-6007-ce68-367c-d4324b148508.htm" />
-  <HelpKINode Title="DbDataSource.Source property" Url="html/6fe58b90-86d1-da6d-895b-58f6e748f5d3.htm" />
-  <HelpKINode Title="DbDataSource.ViewName field" Url="html/ff48e38a-c06a-c458-883b-5b2271a989b1.htm" />
-  <HelpKINode Title="DbDataSource.Where property" Url="html/0e56b9c4-bf0d-a66f-7a85-220392ca1c34.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt; class" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt; class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).Context property" Url="html/efaf0c61-dbe0-c391-7192-4006527c817e.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).CreateContext property" Url="html/98551c34-8385-f2a6-ea3b-4a7f6be65768.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).CreateObjectContext property" Url="html/45ecc0a9-e674-2534-2e04-c3b9e0956d92.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).Data property" Url="html/e11defa7-a75a-9dc2-a933-33e57c507634.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).Database property" Url="html/167c429a-16d4-7f4a-4ee0-5aa0c7afc4bc.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).DbDataSource constructor" Url="html/e17e107a-80ea-5240-20e9-382cb1139f7b.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).EnableDelete property" Url="html/7ad21ae2-0de2-68a0-a501-6aa934a5cb95.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).EnableInsert property" Url="html/12599c46-e172-d118-c439-32bb9ef28036.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).EnableUpdate property" Url="html/7dae0578-8d7d-8275-dfac-4eb64d670b65.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnDataBinding method" Url="html/c9e23dec-639e-66c4-5f0e-3d3e16fe2d1a.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnDelete method" Url="html/6d202c68-2b0b-7a84-a7de-827c9d912b8f.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnInsert method" Url="html/af650445-6340-7996-2534-bb16dc6240d6.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnSelect method" Url="html/acf88a53-4516-2d8d-9689-7aedd62de572.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnUnload method" Url="html/912e5e34-b0cc-3581-bf90-e16e1f0dca2b.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).OnUpdate method" Url="html/feafc87e-733a-6d2d-d721-32d1d2549686.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).Projection property" Url="html/5625cb05-1ce6-8b5d-f043-f583e981a24d.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).Select property" Url="html/9eddefac-70d2-abd0-46aa-ba999ff9853f.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).ViewName field" Url="html/b7aefa05-3950-7862-543e-2bbeb8a94c65.htm" />
+  <HelpKINode Title="DbDataSource(Of TContext, TElement).Where property" Url="html/3300c2ee-f2ca-7435-9247-36ff1141adcc.htm" />
+  <HelpKINode Title="DbDataSource.Context property" Url="html/d2201a78-0900-e282-da97-46d200ef6264.htm" />
+  <HelpKINode Title="DbDataSource.ContextType property" Url="html/384ed670-7558-f76c-59c1-2edbb434d9ee.htm" />
+  <HelpKINode Title="DbDataSource.CreateContext property" Url="html/f76714c9-572e-6589-e644-a92593f7584f.htm" />
+  <HelpKINode Title="DbDataSource.CreateObjectContext property" Url="html/02efae66-05d4-9207-8f0f-18db718777f6.htm" />
+  <HelpKINode Title="DbDataSource.Data property" Url="html/3eb49150-c10c-1c0a-7b0c-3b14dfeadc25.htm" />
+  <HelpKINode Title="DbDataSource.Database property" Url="html/76c49f3f-7d45-26e5-0921-3c47d5c737c3.htm" />
+  <HelpKINode Title="DbDataSource.DbDataSource constructor" Url="html/10a71b1c-319a-ab4d-4438-8bad1249755a.htm" />
+  <HelpKINode Title="DbDataSource.EnableDelete property" Url="html/8be2af70-8098-a3d4-b3a0-1fb00a1b0a2e.htm" />
+  <HelpKINode Title="DbDataSource.EnableInsert property" Url="html/11727c77-6809-e8b0-ad7c-f24ddbbe168a.htm" />
+  <HelpKINode Title="DbDataSource.EnableUpdate property" Url="html/28777d6c-590c-adf2-2567-33d98aade086.htm" />
+  <HelpKINode Title="DbDataSource.EntitySetName property" Url="html/eaf724e4-fb1b-5bc2-d5e7-81d17ce39b06.htm" />
+  <HelpKINode Title="DbDataSource.OnDataBinding method" Url="html/afdc80e6-5799-023c-8826-b2733b0594f5.htm" />
+  <HelpKINode Title="DbDataSource.OnDelete method" Url="html/606985f9-26b1-4167-77f9-c435dcc9d83f.htm" />
+  <HelpKINode Title="DbDataSource.OnInsert method" Url="html/a0e7e622-f94b-abf3-92be-14a3f79a2cbf.htm" />
+  <HelpKINode Title="DbDataSource.OnSelect method" Url="html/bfc954fa-95d6-22e9-fd2c-302d44cc25b3.htm" />
+  <HelpKINode Title="DbDataSource.OnUnload method" Url="html/7b1d8183-74ac-f22b-1895-e4ad45242224.htm" />
+  <HelpKINode Title="DbDataSource.OnUpdate method" Url="html/2f552211-046e-f9b2-601a-fe6661fb118d.htm" />
+  <HelpKINode Title="DbDataSource.Projection property" Url="html/ee5a7d96-5cc5-af47-1103-33004302aa2b.htm" />
+  <HelpKINode Title="DbDataSource.Select property" Url="html/086bfbe6-953b-3b81-69ba-0cdba8c080d1.htm" />
+  <HelpKINode Title="DbDataSource.Set property" Url="html/922c2dd5-d9ca-fb29-3197-649901f2991d.htm" />
+  <HelpKINode Title="DbDataSource.Source property" Url="html/b64d8550-e8ac-b06b-7ae9-1392d43c405d.htm" />
+  <HelpKINode Title="DbDataSource.Where property" Url="html/35c87029-dc6e-bf1d-732d-a5c06306dfa6.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt; class" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt; class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm" />
   <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt; class">
-    <HelpKINode Title="about DbDataSource&lt;TContext, TElement&gt; class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm" />
-    <HelpKINode Title="all members" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-    <HelpKINode Title="constructor" Url="html/039117bc-2338-77da-0716-ef5e94cb6eb9.htm" />
-    <HelpKINode Title="events" Url="html/d25cdfb6-bd11-3609-3a05-9efef747cdfd.htm" />
-    <HelpKINode Title="fields" Url="html/808466a9-d86f-a2a9-3432-6b6f1661d2ea.htm" />
-    <HelpKINode Title="methods" Url="html/2f7918c4-8f05-65b6-669d-fd45e3606fa6.htm" />
-    <HelpKINode Title="properties" Url="html/3891ef8c-9300-cfe5-0799-b4714984a201.htm" />
+    <HelpKINode Title="about DbDataSource&lt;TContext, TElement&gt; class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm" />
+    <HelpKINode Title="all members" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+    <HelpKINode Title="constructor" Url="html/e17e107a-80ea-5240-20e9-382cb1139f7b.htm" />
+    <HelpKINode Title="events" Url="html/d3992310-40ed-f874-b77b-5c5ceeb2f273.htm" />
+    <HelpKINode Title="fields" Url="html/b7d7bc1f-a1a9-4f01-bd42-817365a29251.htm" />
+    <HelpKINode Title="methods" Url="html/e3cba652-88e3-ddd8-d1a8-127c5cb85fed.htm" />
+    <HelpKINode Title="properties" Url="html/eea13e5c-7542-5cb8-b78a-46112506d1a9.htm" />
   </HelpKINode>
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Context property" Url="html/7a2bb9d1-5c78-fd3b-ba78-b7f2c8710291.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.CreateContext property" Url="html/9d1e213e-e124-65b8-d14e-5e35c867014f.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.CreateObjectContext property" Url="html/cddc3319-7cc8-0cb6-3e30-18a49dbe597b.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Data property" Url="html/a57177c3-9aab-e666-cb50-465e7799ebe3.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.DbDataSource constructor" Url="html/039117bc-2338-77da-0716-ef5e94cb6eb9.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.EnableDelete property" Url="html/0c4af372-65d0-81bf-afed-54a91cfc1f24.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.EnableInsert property" Url="html/30da45c8-fe05-3732-0702-bc29f153b4e0.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.EnableUpdate property" Url="html/e793750b-0206-383b-433c-8b4e60cb8ed3.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Exception event" Url="html/974fb93a-54ad-e8c6-b965-2a5fbe87726c.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnDataBinding method" Url="html/a0506c60-2781-5d52-2521-b85dec3f0e0c.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnDelete method" Url="html/56e1c9ec-cd7a-83f1-295f-8bb3ec9ceee0.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnInsert method" Url="html/3f5c652a-5dfd-9778-8e10-10e8906094f6.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnSelect method" Url="html/b022a61e-66f2-b239-af82-64a523396730.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnUnload method" Url="html/2c3fce6a-9bb8-f9ae-90f1-6a2a0162aa59.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnUpdate method" Url="html/b01051f9-b173-9d9b-be97-23744a813020.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Projection property" Url="html/4e9cf4fb-5834-3a6f-0dd3-444a0e247277.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Select property" Url="html/f11dc0bb-6eba-67e3-ab1d-8cb0dcdb4e84.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.ViewName field" Url="html/aee5649a-eb36-8463-ca72-6669de98cbfc.htm" />
-  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Where property" Url="html/f01f66fc-e441-4e1f-3367-578ca4e93eef.htm" />
-  <HelpKINode Title="DefaultView property" Url="html/fcfe9681-d495-6647-f7ca-18ada6a3df17.htm" />
-  <HelpKINode Title="Delete method" Url="html/f50de663-ac44-3722-c8f4-3edffddedabc.htm" />
-  <HelpKINode Title="DisableSelect property" Url="html/fcdd127c-2390-74c1-7017-b5ca999213cc.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Context property" Url="html/efaf0c61-dbe0-c391-7192-4006527c817e.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.CreateContext property" Url="html/98551c34-8385-f2a6-ea3b-4a7f6be65768.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.CreateObjectContext property" Url="html/45ecc0a9-e674-2534-2e04-c3b9e0956d92.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Data property" Url="html/e11defa7-a75a-9dc2-a933-33e57c507634.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Database property" Url="html/167c429a-16d4-7f4a-4ee0-5aa0c7afc4bc.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.DbDataSource constructor" Url="html/e17e107a-80ea-5240-20e9-382cb1139f7b.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.EnableDelete property" Url="html/7ad21ae2-0de2-68a0-a501-6aa934a5cb95.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.EnableInsert property" Url="html/12599c46-e172-d118-c439-32bb9ef28036.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.EnableUpdate property" Url="html/7dae0578-8d7d-8275-dfac-4eb64d670b65.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnDataBinding method" Url="html/c9e23dec-639e-66c4-5f0e-3d3e16fe2d1a.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnDelete method" Url="html/6d202c68-2b0b-7a84-a7de-827c9d912b8f.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnInsert method" Url="html/af650445-6340-7996-2534-bb16dc6240d6.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnSelect method" Url="html/acf88a53-4516-2d8d-9689-7aedd62de572.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnUnload method" Url="html/912e5e34-b0cc-3581-bf90-e16e1f0dca2b.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.OnUpdate method" Url="html/feafc87e-733a-6d2d-d721-32d1d2549686.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Projection property" Url="html/5625cb05-1ce6-8b5d-f043-f583e981a24d.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Select property" Url="html/9eddefac-70d2-abd0-46aa-ba999ff9853f.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.ViewName field" Url="html/b7aefa05-3950-7862-543e-2bbeb8a94c65.htm" />
+  <HelpKINode Title="DbDataSource&lt;TContext, TElement&gt;.Where property" Url="html/3300c2ee-f2ca-7435-9247-36ff1141adcc.htm" />
+  <HelpKINode Title="DefaultView property" Url="html/1ef98815-8f6f-6ff7-a400-1e3352636ebd.htm" />
+  <HelpKINode Title="Delete method" Url="html/270d77fb-62ab-8086-e274-47641c26d82e.htm" />
+  <HelpKINode Title="DisableSelect property" Url="html/7291fadd-a97e-3336-2744-4fc4e981cb26.htm" />
   <HelpKINode Title="DynamicClass class" Url="html/558c3d5e-a640-caf0-0888-6dd311d46f91.htm" />
   <HelpKINode Title="DynamicClass class" Url="html/ecddb75e-b997-f396-4ae4-81bdd844cd7d.htm" />
   <HelpKINode Title="DynamicClass class">
@@ -170,222 +170,216 @@
   <HelpKINode Title="DynamicQueryable.Skip method" Url="html/6c55e76f-701d-419c-83ec-f13e16151a2e.htm" />
   <HelpKINode Title="DynamicQueryable.Take method" Url="html/7944d895-0474-da9d-7090-532de3eb9a99.htm" />
   <HelpKINode Title="DynamicQueryable.Where method" Url="html/7b456d4c-7294-4d66-6baf-bb298615907c.htm" />
-  <HelpKINode Title="EnableDelete property" Url="html/0c4af372-65d0-81bf-afed-54a91cfc1f24.htm" />
-  <HelpKINode Title="EnableDelete property" Url="html/2a760335-f8d4-66c6-2eed-ab2f4300d926.htm" />
-  <HelpKINode Title="EnableInsert property" Url="html/30da45c8-fe05-3732-0702-bc29f153b4e0.htm" />
-  <HelpKINode Title="EnableInsert property" Url="html/54cdf05f-a64f-4a42-7ff9-67347d86d580.htm" />
-  <HelpKINode Title="EnableUpdate property" Url="html/d2317ebb-edb0-005d-447f-a14d033a4988.htm" />
-  <HelpKINode Title="EnableUpdate property" Url="html/e793750b-0206-383b-433c-8b4e60cb8ed3.htm" />
-  <HelpKINode Title="EntitySetName property" Url="html/2f615a03-595e-7d44-2698-85f8f3c36d86.htm" />
-  <HelpKINode Title="Exception event" Url="html/5ed2bf93-4dfd-bc2d-d425-708c0baf5c3c.htm" />
-  <HelpKINode Title="Exception event" Url="html/974fb93a-54ad-e8c6-b965-2a5fbe87726c.htm" />
-  <HelpKINode Title="ExecuteDelete event" Url="html/e8a96f11-f2e6-a084-2618-768980f6b396.htm" />
-  <HelpKINode Title="ExecuteDelete method" Url="html/c4f499f1-4d51-128e-7a45-10208ad5eade.htm" />
-  <HelpKINode Title="ExecuteInsert event" Url="html/297033fd-d74a-2f53-d4ef-abaf834c3c27.htm" />
-  <HelpKINode Title="ExecuteInsert method" Url="html/a5a579df-f9aa-2740-57e3-74e2bba1f55c.htm" />
-  <HelpKINode Title="ExecuteSelect event" Url="html/7c5a8173-b86e-9f08-9752-b7ff75509f91.htm" />
-  <HelpKINode Title="ExecuteSelect method" Url="html/4975c09a-5f88-a966-0b9e-1113df333089.htm" />
-  <HelpKINode Title="ExecuteUpdate event" Url="html/2ed8e786-cb99-5b44-6454-9de71fa57ef0.htm" />
-  <HelpKINode Title="ExecuteUpdate method" Url="html/58673fa1-5aa0-ec31-fa08-9391d52914be.htm" />
-  <HelpKINode Title="Fill(Of T) method" Url="html/059a1594-8da8-38a8-1b62-7058a8b7919f.htm" />
-  <HelpKINode Title="Fill&lt;T&gt; method" Url="html/059a1594-8da8-38a8-1b62-7058a8b7919f.htm" />
-  <HelpKINode Title="FillDataItem(Of T) method" Url="html/3514f679-58f2-7d9a-d272-cbb69ba23e0f.htm" />
-  <HelpKINode Title="FillDataItem(Of T) method" Url="html/d1a97346-462a-de9e-9581-0ef83eb7453b.htm" />
-  <HelpKINode Title="FillDataItem&lt;T&gt; method" Url="html/3514f679-58f2-7d9a-d272-cbb69ba23e0f.htm" />
-  <HelpKINode Title="FillDataItem&lt;T&gt; method" Url="html/d1a97346-462a-de9e-9581-0ef83eb7453b.htm" />
-  <HelpKINode Title="GenericArgsDataItem class" Url="html/801dff64-bf15-580e-4ce7-84cb8464c463.htm" />
-  <HelpKINode Title="GenericArgsDataItem class" Url="html/88518af9-11dd-72d8-fe2c-924a9cf84898.htm" />
+  <HelpKINode Title="EnableDelete property" Url="html/7ad21ae2-0de2-68a0-a501-6aa934a5cb95.htm" />
+  <HelpKINode Title="EnableDelete property" Url="html/8be2af70-8098-a3d4-b3a0-1fb00a1b0a2e.htm" />
+  <HelpKINode Title="EnableInsert property" Url="html/11727c77-6809-e8b0-ad7c-f24ddbbe168a.htm" />
+  <HelpKINode Title="EnableInsert property" Url="html/12599c46-e172-d118-c439-32bb9ef28036.htm" />
+  <HelpKINode Title="EnableUpdate property" Url="html/28777d6c-590c-adf2-2567-33d98aade086.htm" />
+  <HelpKINode Title="EnableUpdate property" Url="html/7dae0578-8d7d-8275-dfac-4eb64d670b65.htm" />
+  <HelpKINode Title="EntitySetName property" Url="html/eaf724e4-fb1b-5bc2-d5e7-81d17ce39b06.htm" />
+  <HelpKINode Title="ExecuteDelete event" Url="html/47e3c556-54aa-5f50-b65b-3c9420f84382.htm" />
+  <HelpKINode Title="ExecuteDelete method" Url="html/3fad1bcc-bf86-2b74-cbb4-e64aed08bf9f.htm" />
+  <HelpKINode Title="ExecuteInsert event" Url="html/a0f30dcf-4081-9437-9850-ad4dfa2fb3a6.htm" />
+  <HelpKINode Title="ExecuteInsert method" Url="html/fc3f5adc-0819-ed04-c037-88648771c496.htm" />
+  <HelpKINode Title="ExecuteSelect event" Url="html/f2d158f3-cb17-3d6f-c0ce-004fd47f443b.htm" />
+  <HelpKINode Title="ExecuteSelect method" Url="html/64e61d29-ef08-ec31-14eb-14d6a299fabb.htm" />
+  <HelpKINode Title="ExecuteUpdate event" Url="html/09fb2a20-9a9e-8004-4a59-c38b64ed6227.htm" />
+  <HelpKINode Title="ExecuteUpdate method" Url="html/6bc4406f-aa26-97df-4a7d-08dd2c1101ea.htm" />
+  <HelpKINode Title="Fill(Of T) method" Url="html/13eab955-f7d2-605e-3290-0bd8500b5bee.htm" />
+  <HelpKINode Title="Fill&lt;T&gt; method" Url="html/13eab955-f7d2-605e-3290-0bd8500b5bee.htm" />
+  <HelpKINode Title="FillDataItem(Of T) method" Url="html/010af6a8-7200-7234-39ae-bb37adf5db06.htm" />
+  <HelpKINode Title="FillDataItem(Of T) method" Url="html/4fc60c09-1a3e-be21-dec4-967c8d56c4ea.htm" />
+  <HelpKINode Title="FillDataItem&lt;T&gt; method" Url="html/010af6a8-7200-7234-39ae-bb37adf5db06.htm" />
+  <HelpKINode Title="FillDataItem&lt;T&gt; method" Url="html/4fc60c09-1a3e-be21-dec4-967c8d56c4ea.htm" />
+  <HelpKINode Title="GenericArgsDataItem class" Url="html/7c720c9d-008b-4a04-12d7-1fd4214e7ddb.htm" />
+  <HelpKINode Title="GenericArgsDataItem class" Url="html/d741ffaf-4e91-0676-8d40-11c0a8a63bc5.htm" />
   <HelpKINode Title="GenericArgsDataItem class">
-    <HelpKINode Title="about GenericArgsDataItem class" Url="html/801dff64-bf15-580e-4ce7-84cb8464c463.htm" />
-    <HelpKINode Title="all members" Url="html/88518af9-11dd-72d8-fe2c-924a9cf84898.htm" />
-    <HelpKINode Title="constructor" Url="html/244f9b14-edcd-a85b-8095-7e6c80b8e911.htm" />
-    <HelpKINode Title="methods" Url="html/b9cb3c79-00db-c329-99ee-b3825dbe255a.htm" />
-    <HelpKINode Title="properties" Url="html/9dc3ad80-bfe1-f9df-9b2c-ac3eff935323.htm" />
+    <HelpKINode Title="about GenericArgsDataItem class" Url="html/d741ffaf-4e91-0676-8d40-11c0a8a63bc5.htm" />
+    <HelpKINode Title="all members" Url="html/7c720c9d-008b-4a04-12d7-1fd4214e7ddb.htm" />
+    <HelpKINode Title="constructor" Url="html/bed2bb60-79c5-6e8e-1a2b-62c9d15f4f5d.htm" />
+    <HelpKINode Title="methods" Url="html/fc5f8ee8-5509-d016-d41c-f8c1cb4b033a.htm" />
+    <HelpKINode Title="properties" Url="html/64b29269-19d7-aefc-813b-819631665fce.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericArgsDataItem.Fill(Of T) method" Url="html/059a1594-8da8-38a8-1b62-7058a8b7919f.htm" />
-  <HelpKINode Title="GenericArgsDataItem.Fill&lt;T&gt; method" Url="html/059a1594-8da8-38a8-1b62-7058a8b7919f.htm" />
-  <HelpKINode Title="GenericArgsDataItem.GenericArgsDataItem constructor" Url="html/244f9b14-edcd-a85b-8095-7e6c80b8e911.htm" />
-  <HelpKINode Title="GenericArgsDataItem.Value(Of T) method" Url="html/49824515-df95-8008-5c30-13e3a02ba094.htm" />
-  <HelpKINode Title="GenericArgsDataItem.Value&lt;T&gt; method" Url="html/49824515-df95-8008-5c30-13e3a02ba094.htm" />
-  <HelpKINode Title="GenericArgsDataItem.Values property" Url="html/4289aca9-6489-c2c4-a1d1-5e6a21f7dc4c.htm" />
-  <HelpKINode Title="GenericDataArgs class" Url="html/bba0da0a-56b1-aa8e-65c3-889dbe4400fc.htm" />
-  <HelpKINode Title="GenericDataArgs class" Url="html/e7f86a87-8e3e-e4f0-73c5-25d296ae5475.htm" />
+  <HelpKINode Title="GenericArgsDataItem.Fill(Of T) method" Url="html/13eab955-f7d2-605e-3290-0bd8500b5bee.htm" />
+  <HelpKINode Title="GenericArgsDataItem.Fill&lt;T&gt; method" Url="html/13eab955-f7d2-605e-3290-0bd8500b5bee.htm" />
+  <HelpKINode Title="GenericArgsDataItem.GenericArgsDataItem constructor" Url="html/bed2bb60-79c5-6e8e-1a2b-62c9d15f4f5d.htm" />
+  <HelpKINode Title="GenericArgsDataItem.Value(Of T) method" Url="html/b340844f-654d-2a90-7158-069e1d1cca0b.htm" />
+  <HelpKINode Title="GenericArgsDataItem.Value&lt;T&gt; method" Url="html/b340844f-654d-2a90-7158-069e1d1cca0b.htm" />
+  <HelpKINode Title="GenericArgsDataItem.Values property" Url="html/8d581db5-fbdf-027e-910d-41b995ab64c2.htm" />
+  <HelpKINode Title="GenericDataArgs class" Url="html/2ec37c5f-aa4e-6aa6-7cf3-676da7358a11.htm" />
+  <HelpKINode Title="GenericDataArgs class" Url="html/ca9b6b6e-338f-7131-ebdc-b6b5993c0c5a.htm" />
   <HelpKINode Title="GenericDataArgs class">
-    <HelpKINode Title="about GenericDataArgs class" Url="html/bba0da0a-56b1-aa8e-65c3-889dbe4400fc.htm" />
-    <HelpKINode Title="all members" Url="html/e7f86a87-8e3e-e4f0-73c5-25d296ae5475.htm" />
-    <HelpKINode Title="constructor" Url="html/536f2beb-d3da-c884-62e2-3598c68058db.htm" />
-    <HelpKINode Title="methods" Url="html/edef320f-268d-53bf-124b-d0b9d16d41c9.htm" />
-    <HelpKINode Title="properties" Url="html/12edb9b9-3c21-9c3c-8ef5-67022b2fe1b8.htm" />
+    <HelpKINode Title="about GenericDataArgs class" Url="html/2ec37c5f-aa4e-6aa6-7cf3-676da7358a11.htm" />
+    <HelpKINode Title="all members" Url="html/ca9b6b6e-338f-7131-ebdc-b6b5993c0c5a.htm" />
+    <HelpKINode Title="constructor" Url="html/2645923d-3911-eb76-b0b4-ca6e0cdf9b07.htm" />
+    <HelpKINode Title="methods" Url="html/a6e3eca6-cb96-f0c9-7508-a950795a122e.htm" />
+    <HelpKINode Title="properties" Url="html/35cc68fc-b827-d44d-e878-08e42df93b55.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericDataArgs.DataItem property" Url="html/a7c4d212-2679-9e54-c0d6-71d9748d2ffa.htm" />
-  <HelpKINode Title="GenericDataArgs.FillDataItem(Of T) method" Url="html/3514f679-58f2-7d9a-d272-cbb69ba23e0f.htm" />
-  <HelpKINode Title="GenericDataArgs.FillDataItem&lt;T&gt; method" Url="html/3514f679-58f2-7d9a-d272-cbb69ba23e0f.htm" />
-  <HelpKINode Title="GenericDataArgs.GenericDataArgs constructor" Url="html/536f2beb-d3da-c884-62e2-3598c68058db.htm" />
-  <HelpKINode Title="GenericDataArgs.GetDataItem(Of T) method" Url="html/fd6a2d06-e6ea-8187-bba3-c1392e9c5465.htm" />
-  <HelpKINode Title="GenericDataArgs.GetDataItem&lt;T&gt; method" Url="html/fd6a2d06-e6ea-8187-bba3-c1392e9c5465.htm" />
-  <HelpKINode Title="GenericDataArgs.RowsAffected property" Url="html/c04add70-986a-19a4-7ebc-4bd4af1293f8.htm" />
-  <HelpKINode Title="GenericDataArgs.Values property" Url="html/95f74d2b-851d-1527-e1ef-52ccf9943a79.htm" />
-  <HelpKINode Title="GenericDataSource class" Url="html/71fc407f-c20e-e6fc-f650-009a8864fe2f.htm" />
-  <HelpKINode Title="GenericDataSource class" Url="html/e1779ee6-f91e-db03-8149-76c100626058.htm" />
+  <HelpKINode Title="GenericDataArgs.DataItem property" Url="html/6a920f40-6a11-3742-2cf6-80bec050d099.htm" />
+  <HelpKINode Title="GenericDataArgs.FillDataItem(Of T) method" Url="html/4fc60c09-1a3e-be21-dec4-967c8d56c4ea.htm" />
+  <HelpKINode Title="GenericDataArgs.FillDataItem&lt;T&gt; method" Url="html/4fc60c09-1a3e-be21-dec4-967c8d56c4ea.htm" />
+  <HelpKINode Title="GenericDataArgs.GenericDataArgs constructor" Url="html/2645923d-3911-eb76-b0b4-ca6e0cdf9b07.htm" />
+  <HelpKINode Title="GenericDataArgs.GetDataItem(Of T) method" Url="html/b72efc5f-8b98-4a33-eef1-346f12e759a4.htm" />
+  <HelpKINode Title="GenericDataArgs.GetDataItem&lt;T&gt; method" Url="html/b72efc5f-8b98-4a33-eef1-346f12e759a4.htm" />
+  <HelpKINode Title="GenericDataArgs.RowsAffected property" Url="html/d98c1adb-2456-eb2c-a376-19987b4c233b.htm" />
+  <HelpKINode Title="GenericDataArgs.Values property" Url="html/6bff74b9-f006-0c52-2262-0e46aa2ede26.htm" />
+  <HelpKINode Title="GenericDataSource class" Url="html/154875dd-ff08-228e-a18d-5cd806bd6093.htm" />
+  <HelpKINode Title="GenericDataSource class" Url="html/27af60f9-39d7-a223-d000-11c84d36e56e.htm" />
   <HelpKINode Title="GenericDataSource class">
-    <HelpKINode Title="about GenericDataSource class" Url="html/71fc407f-c20e-e6fc-f650-009a8864fe2f.htm" />
-    <HelpKINode Title="all members" Url="html/e1779ee6-f91e-db03-8149-76c100626058.htm" />
-    <HelpKINode Title="constructor" Url="html/e222d00c-7bc3-1226-a1e7-6871e4c459df.htm" />
-    <HelpKINode Title="events" Url="html/ad844a87-7ccd-afcd-6222-b4e0558c297f.htm" />
-    <HelpKINode Title="methods" Url="html/ac2ae22d-8391-2478-cf2c-1459bccf7573.htm" />
-    <HelpKINode Title="properties" Url="html/370af332-7bbb-c3ff-44e1-78ba7a202cd0.htm" />
+    <HelpKINode Title="about GenericDataSource class" Url="html/154875dd-ff08-228e-a18d-5cd806bd6093.htm" />
+    <HelpKINode Title="all members" Url="html/27af60f9-39d7-a223-d000-11c84d36e56e.htm" />
+    <HelpKINode Title="constructor" Url="html/8eefaca7-5840-f89c-eadb-a126de93306a.htm" />
+    <HelpKINode Title="events" Url="html/3a6fb9b8-20ef-3a16-bf79-b38bfd8df213.htm" />
+    <HelpKINode Title="methods" Url="html/7bf5e777-d228-9993-aa73-3fbe19a79931.htm" />
+    <HelpKINode Title="properties" Url="html/68ed2b85-79d5-bd0d-d5f6-7160b5874515.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericDataSource.AutoPage property" Url="html/4d377899-89d8-9bd7-6bb7-24bf1650e0aa.htm" />
-  <HelpKINode Title="GenericDataSource.AutoSort property" Url="html/24be0e22-d5d6-b53a-ca8e-19056099057d.htm" />
-  <HelpKINode Title="GenericDataSource.DataSource property" Url="html/cd9d909d-f25b-89c7-5f01-fe399ed99df4.htm" />
-  <HelpKINode Title="GenericDataSource.DefaultView property" Url="html/fcfe9681-d495-6647-f7ca-18ada6a3df17.htm" />
-  <HelpKINode Title="GenericDataSource.Delete method" Url="html/f50de663-ac44-3722-c8f4-3edffddedabc.htm" />
-  <HelpKINode Title="GenericDataSource.DisableSelect property" Url="html/fcdd127c-2390-74c1-7017-b5ca999213cc.htm" />
-  <HelpKINode Title="GenericDataSource.ExecuteDelete event" Url="html/e8a96f11-f2e6-a084-2618-768980f6b396.htm" />
-  <HelpKINode Title="GenericDataSource.ExecuteInsert event" Url="html/297033fd-d74a-2f53-d4ef-abaf834c3c27.htm" />
-  <HelpKINode Title="GenericDataSource.ExecuteSelect event" Url="html/7c5a8173-b86e-9f08-9752-b7ff75509f91.htm" />
-  <HelpKINode Title="GenericDataSource.ExecuteUpdate event" Url="html/2ed8e786-cb99-5b44-6454-9de71fa57ef0.htm" />
-  <HelpKINode Title="GenericDataSource.GenericDataSource constructor" Url="html/e222d00c-7bc3-1226-a1e7-6871e4c459df.htm" />
-  <HelpKINode Title="GenericDataSource.GetView method" Url="html/43c235bc-5280-6606-eb6c-6a5b8d31f1b4.htm" />
-  <HelpKINode Title="GenericDataSource.GetViewNames method" Url="html/329c766d-c53f-a700-d673-68a7b32eeba3.htm" />
-  <HelpKINode Title="GenericDataSource.Insert method" Url="html/d69623be-8a21-aba7-9dcb-1d75b6cb987c.htm" />
-  <HelpKINode Title="GenericDataSource.LoadViewState method" Url="html/79b5cbe4-06e1-e8b8-c02c-7ec2bd995aeb.htm" />
-  <HelpKINode Title="GenericDataSource.OnExecuteDelete method" Url="html/d9063163-87ff-ba06-a87a-c4f57ebf9715.htm" />
-  <HelpKINode Title="GenericDataSource.OnExecuteInsert method" Url="html/2be55d65-1940-3eb1-44a5-8ce9a3722a9f.htm" />
-  <HelpKINode Title="GenericDataSource.OnExecuteSelect method" Url="html/6900e521-ad4a-5594-e879-26fad0ba6e34.htm" />
-  <HelpKINode Title="GenericDataSource.OnExecuteUpdate method" Url="html/2bf9d94d-0947-21cb-cf1b-2c751060a3b5.htm" />
-  <HelpKINode Title="GenericDataSource.SaveViewState method" Url="html/6ed7eb3f-3ba4-d83a-dbb3-3b331efc7d80.htm" />
-  <HelpKINode Title="GenericDataSource.Select method" Url="html/94f2519f-f9b9-9bcc-0e89-df2ade572725.htm" />
-  <HelpKINode Title="GenericDataSource.Update method" Url="html/62eca1e8-2346-488b-45fb-4f18c731b57c.htm" />
-  <HelpKINode Title="GenericDataSourceView class" Url="html/19744fbe-834f-e1a1-e24e-8fcf0c34d75e.htm" />
-  <HelpKINode Title="GenericDataSourceView class" Url="html/a457e89e-258a-3eeb-41d5-06e9e6efc9e8.htm" />
+  <HelpKINode Title="GenericDataSource.AutoPage property" Url="html/94d305eb-c8a9-e925-6a81-dbb5e4368617.htm" />
+  <HelpKINode Title="GenericDataSource.AutoSort property" Url="html/b2dd50c9-c7b5-d970-761a-8f1398473045.htm" />
+  <HelpKINode Title="GenericDataSource.DataSource property" Url="html/10d4363e-5a30-72e7-1182-e9659c43dd8f.htm" />
+  <HelpKINode Title="GenericDataSource.DefaultView property" Url="html/1ef98815-8f6f-6ff7-a400-1e3352636ebd.htm" />
+  <HelpKINode Title="GenericDataSource.Delete method" Url="html/270d77fb-62ab-8086-e274-47641c26d82e.htm" />
+  <HelpKINode Title="GenericDataSource.DisableSelect property" Url="html/7291fadd-a97e-3336-2744-4fc4e981cb26.htm" />
+  <HelpKINode Title="GenericDataSource.ExecuteDelete event" Url="html/47e3c556-54aa-5f50-b65b-3c9420f84382.htm" />
+  <HelpKINode Title="GenericDataSource.ExecuteInsert event" Url="html/a0f30dcf-4081-9437-9850-ad4dfa2fb3a6.htm" />
+  <HelpKINode Title="GenericDataSource.ExecuteSelect event" Url="html/f2d158f3-cb17-3d6f-c0ce-004fd47f443b.htm" />
+  <HelpKINode Title="GenericDataSource.ExecuteUpdate event" Url="html/09fb2a20-9a9e-8004-4a59-c38b64ed6227.htm" />
+  <HelpKINode Title="GenericDataSource.GenericDataSource constructor" Url="html/8eefaca7-5840-f89c-eadb-a126de93306a.htm" />
+  <HelpKINode Title="GenericDataSource.GetView method" Url="html/bf1e1910-fe78-e3cd-ba30-cfbdd3a335ca.htm" />
+  <HelpKINode Title="GenericDataSource.GetViewNames method" Url="html/f499d552-8452-ab3e-ad02-5f336f4e9840.htm" />
+  <HelpKINode Title="GenericDataSource.Insert method" Url="html/76f4e37b-a16b-028f-95d8-c120891e8a4c.htm" />
+  <HelpKINode Title="GenericDataSource.LoadViewState method" Url="html/a25900f5-367b-942f-58b5-4c6b575f3d15.htm" />
+  <HelpKINode Title="GenericDataSource.OnExecuteDelete method" Url="html/90845afc-ca6b-f3a6-f4f6-ddcbedfba7d3.htm" />
+  <HelpKINode Title="GenericDataSource.OnExecuteInsert method" Url="html/94223b88-9b4d-ca91-0f30-92da6a7c6124.htm" />
+  <HelpKINode Title="GenericDataSource.OnExecuteSelect method" Url="html/13cb914e-6d92-e3cb-bf74-6aa18cd271bf.htm" />
+  <HelpKINode Title="GenericDataSource.OnExecuteUpdate method" Url="html/901a2fac-141c-5edb-f3c3-e44501b0928e.htm" />
+  <HelpKINode Title="GenericDataSource.SaveViewState method" Url="html/f74331dc-eb0b-4ec2-166a-79f32c272404.htm" />
+  <HelpKINode Title="GenericDataSource.Select method" Url="html/e506e679-c53e-693c-7a8f-283aa5a9471a.htm" />
+  <HelpKINode Title="GenericDataSource.Update method" Url="html/dcf538d6-04c9-d875-8dc5-461777987a15.htm" />
+  <HelpKINode Title="GenericDataSourceView class" Url="html/2ff2681f-2b33-36f3-cbaf-9af657b063af.htm" />
+  <HelpKINode Title="GenericDataSourceView class" Url="html/cff27328-e51b-ee46-62af-68f0ee79a9b0.htm" />
   <HelpKINode Title="GenericDataSourceView class">
-    <HelpKINode Title="about GenericDataSourceView class" Url="html/19744fbe-834f-e1a1-e24e-8fcf0c34d75e.htm" />
-    <HelpKINode Title="all members" Url="html/a457e89e-258a-3eeb-41d5-06e9e6efc9e8.htm" />
-    <HelpKINode Title="constructor" Url="html/10e024e4-dad1-45b2-9ba1-8dea0b8302e9.htm" />
-    <HelpKINode Title="events" Url="html/dcd97bbd-c056-be51-0c5b-3f504d4ebe85.htm" />
-    <HelpKINode Title="methods" Url="html/847296f2-4937-aa9b-4615-0191fd23953b.htm" />
-    <HelpKINode Title="properties" Url="html/eefc20f7-f68d-8361-f4f1-929b4925e887.htm" />
+    <HelpKINode Title="about GenericDataSourceView class" Url="html/cff27328-e51b-ee46-62af-68f0ee79a9b0.htm" />
+    <HelpKINode Title="all members" Url="html/2ff2681f-2b33-36f3-cbaf-9af657b063af.htm" />
+    <HelpKINode Title="constructor" Url="html/4c901eb7-419b-47ba-05e4-d5e54cd57ae2.htm" />
+    <HelpKINode Title="events" Url="html/72c513b1-a3bf-7fa2-668f-96eee14dc821.htm" />
+    <HelpKINode Title="methods" Url="html/1c32901e-c684-c2bf-1bcd-db679d9fb62b.htm" />
+    <HelpKINode Title="properties" Url="html/cea3d338-a99a-df4e-81f3-ff632cf24f5b.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericDataSourceView.CanPage property" Url="html/9f68a37f-d369-1024-cdb4-2e231ca50fe7.htm" />
-  <HelpKINode Title="GenericDataSourceView.CanRetrieveTotalRowCount property" Url="html/928a5057-44fd-6297-d53b-a7e0d48b4d55.htm" />
-  <HelpKINode Title="GenericDataSourceView.ExecuteDelete method" Url="html/c4f499f1-4d51-128e-7a45-10208ad5eade.htm" />
-  <HelpKINode Title="GenericDataSourceView.ExecuteInsert method" Url="html/a5a579df-f9aa-2740-57e3-74e2bba1f55c.htm" />
-  <HelpKINode Title="GenericDataSourceView.ExecuteSelect method" Url="html/4975c09a-5f88-a966-0b9e-1113df333089.htm" />
-  <HelpKINode Title="GenericDataSourceView.ExecuteUpdate method" Url="html/58673fa1-5aa0-ec31-fa08-9391d52914be.htm" />
-  <HelpKINode Title="GenericDataSourceView.GenericDataSourceView constructor" Url="html/10e024e4-dad1-45b2-9ba1-8dea0b8302e9.htm" />
-  <HelpKINode Title="GenericKeyDataArgs class" Url="html/260133dd-3d90-12bb-46dd-1fee8e8765ec.htm" />
-  <HelpKINode Title="GenericKeyDataArgs class" Url="html/871d7a4e-36fa-d7b8-682f-389736c457ee.htm" />
+  <HelpKINode Title="GenericDataSourceView.CanPage property" Url="html/32ce2a45-29ef-7d59-b2ec-ea01dd2521d6.htm" />
+  <HelpKINode Title="GenericDataSourceView.CanRetrieveTotalRowCount property" Url="html/30bc42e9-40df-e708-9dd5-94ecbec67705.htm" />
+  <HelpKINode Title="GenericDataSourceView.ExecuteDelete method" Url="html/3fad1bcc-bf86-2b74-cbb4-e64aed08bf9f.htm" />
+  <HelpKINode Title="GenericDataSourceView.ExecuteInsert method" Url="html/fc3f5adc-0819-ed04-c037-88648771c496.htm" />
+  <HelpKINode Title="GenericDataSourceView.ExecuteSelect method" Url="html/64e61d29-ef08-ec31-14eb-14d6a299fabb.htm" />
+  <HelpKINode Title="GenericDataSourceView.ExecuteUpdate method" Url="html/6bc4406f-aa26-97df-4a7d-08dd2c1101ea.htm" />
+  <HelpKINode Title="GenericDataSourceView.GenericDataSourceView constructor" Url="html/4c901eb7-419b-47ba-05e4-d5e54cd57ae2.htm" />
+  <HelpKINode Title="GenericKeyDataArgs class" Url="html/99f96dce-089c-24a4-d544-08d13e534d93.htm" />
+  <HelpKINode Title="GenericKeyDataArgs class" Url="html/be4b3bb2-2635-9f2c-9b40-bb66f3e3d26f.htm" />
   <HelpKINode Title="GenericKeyDataArgs class">
-    <HelpKINode Title="about GenericKeyDataArgs class" Url="html/871d7a4e-36fa-d7b8-682f-389736c457ee.htm" />
-    <HelpKINode Title="all members" Url="html/260133dd-3d90-12bb-46dd-1fee8e8765ec.htm" />
-    <HelpKINode Title="constructor" Url="html/8c23c1f9-3f7d-bf88-14cd-ef1b8ff140a0.htm" />
-    <HelpKINode Title="methods" Url="html/d3311940-2849-83f0-a997-dfbe49dbf8c7.htm" />
-    <HelpKINode Title="properties" Url="html/02985ec2-c737-a5cd-d4e7-817d2ec6708e.htm" />
+    <HelpKINode Title="about GenericKeyDataArgs class" Url="html/be4b3bb2-2635-9f2c-9b40-bb66f3e3d26f.htm" />
+    <HelpKINode Title="all members" Url="html/99f96dce-089c-24a4-d544-08d13e534d93.htm" />
+    <HelpKINode Title="constructor" Url="html/306998df-4ba4-45ed-7f0b-9ad23ee88f6e.htm" />
+    <HelpKINode Title="methods" Url="html/6c764886-97c4-c08b-387d-45531bb5b6a3.htm" />
+    <HelpKINode Title="properties" Url="html/cb1129cd-1d2e-65b1-a45d-e8ce721d606e.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericKeyDataArgs.FillDataItem(Of T) method" Url="html/d1a97346-462a-de9e-9581-0ef83eb7453b.htm" />
-  <HelpKINode Title="GenericKeyDataArgs.FillDataItem&lt;T&gt; method" Url="html/d1a97346-462a-de9e-9581-0ef83eb7453b.htm" />
-  <HelpKINode Title="GenericKeyDataArgs.GenericKeyDataArgs constructor" Url="html/8c23c1f9-3f7d-bf88-14cd-ef1b8ff140a0.htm" />
-  <HelpKINode Title="GenericKeyDataArgs.Keys property" Url="html/a22e98a7-c0bd-976e-8fdd-74765f181cc9.htm" />
-  <HelpKINode Title="GenericSelectArgs class" Url="html/8a4dc36d-7289-682d-8266-73832cc86d98.htm" />
-  <HelpKINode Title="GenericSelectArgs class" Url="html/a22371d4-ab80-c6ed-89e3-cc0020a43ae7.htm" />
+  <HelpKINode Title="GenericKeyDataArgs.FillDataItem(Of T) method" Url="html/010af6a8-7200-7234-39ae-bb37adf5db06.htm" />
+  <HelpKINode Title="GenericKeyDataArgs.FillDataItem&lt;T&gt; method" Url="html/010af6a8-7200-7234-39ae-bb37adf5db06.htm" />
+  <HelpKINode Title="GenericKeyDataArgs.GenericKeyDataArgs constructor" Url="html/306998df-4ba4-45ed-7f0b-9ad23ee88f6e.htm" />
+  <HelpKINode Title="GenericKeyDataArgs.Keys property" Url="html/e5e6e2da-6a22-e4f5-62be-89bacecdb5be.htm" />
+  <HelpKINode Title="GenericSelectArgs class" Url="html/33d0b0c8-0c82-ebba-a3b5-5249615d8881.htm" />
+  <HelpKINode Title="GenericSelectArgs class" Url="html/3bcb595a-2469-1d53-f494-a48963654497.htm" />
   <HelpKINode Title="GenericSelectArgs class">
-    <HelpKINode Title="about GenericSelectArgs class" Url="html/8a4dc36d-7289-682d-8266-73832cc86d98.htm" />
-    <HelpKINode Title="all members" Url="html/a22371d4-ab80-c6ed-89e3-cc0020a43ae7.htm" />
-    <HelpKINode Title="constructor" Url="html/b3d0667e-745c-a0fe-cbf6-437b5d699ca5.htm" />
-    <HelpKINode Title="methods" Url="html/5a2a4961-c719-adda-ee3f-9f6e32215427.htm" />
-    <HelpKINode Title="properties" Url="html/55df2270-0423-50fb-fecb-4311e0a6206b.htm" />
+    <HelpKINode Title="about GenericSelectArgs class" Url="html/3bcb595a-2469-1d53-f494-a48963654497.htm" />
+    <HelpKINode Title="all members" Url="html/33d0b0c8-0c82-ebba-a3b5-5249615d8881.htm" />
+    <HelpKINode Title="constructor" Url="html/7b005998-2a0e-bf6a-2ee5-d908d027472f.htm" />
+    <HelpKINode Title="methods" Url="html/238a19cf-2c34-d7cd-7f66-590f78f73c44.htm" />
+    <HelpKINode Title="properties" Url="html/ff954f61-3d86-1540-63cd-1502108e0b3d.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericSelectArgs.AutoPage property" Url="html/21503a1c-48db-8ee7-383f-47f29fd80e9b.htm" />
-  <HelpKINode Title="GenericSelectArgs.AutoSort property" Url="html/6e214e32-0d9e-59ae-f726-2409c0e712d5.htm" />
-  <HelpKINode Title="GenericSelectArgs.DataSource property" Url="html/34dbb290-1dcb-0926-e268-50e20630f317.htm" />
-  <HelpKINode Title="GenericSelectArgs.GenericSelectArgs constructor" Url="html/b3d0667e-745c-a0fe-cbf6-437b5d699ca5.htm" />
-  <HelpKINode Title="GenericSelectArgs.SelectArguments property" Url="html/b2c86926-f775-aae2-aba0-51ee29e729c8.htm" />
-  <HelpKINode Title="GenericSelectArgs.SetData method" Url="html/5020a5c6-2b6c-e803-e778-53b95d2fc5cd.htm" />
-  <HelpKINode Title="GenericSelectArgs.SetPagedData method" Url="html/dff61224-97e2-a3e8-11c7-c1eaabbb24f6.htm" />
-  <HelpKINode Title="GenericUpdateArgs class" Url="html/efa8a921-eede-5722-fb38-2d3b778d0d41.htm" />
-  <HelpKINode Title="GenericUpdateArgs class" Url="html/fb610857-aa41-7e51-4974-bdecf82ad72f.htm" />
+  <HelpKINode Title="GenericSelectArgs.AutoPage property" Url="html/9442141b-58e0-a399-27fd-a60d1cb9af5a.htm" />
+  <HelpKINode Title="GenericSelectArgs.AutoSort property" Url="html/e916b55c-a0a4-711b-7403-1dcfb6fd413e.htm" />
+  <HelpKINode Title="GenericSelectArgs.DataSource property" Url="html/4d36bdfc-757c-930d-a0f8-2692b4e50eda.htm" />
+  <HelpKINode Title="GenericSelectArgs.GenericSelectArgs constructor" Url="html/7b005998-2a0e-bf6a-2ee5-d908d027472f.htm" />
+  <HelpKINode Title="GenericSelectArgs.SelectArguments property" Url="html/aa3b8cd3-ea82-b8b5-395a-db0a0e5bc7ae.htm" />
+  <HelpKINode Title="GenericSelectArgs.SetData method" Url="html/ff465cfa-594a-8c85-fc86-2da69181364e.htm" />
+  <HelpKINode Title="GenericSelectArgs.SetPagedData method" Url="html/e983c329-a7d6-837e-4910-2f0e4431a6ae.htm" />
+  <HelpKINode Title="GenericUpdateArgs class" Url="html/3df0c2ca-a7b4-c96e-a65b-4d8ac7d27a67.htm" />
+  <HelpKINode Title="GenericUpdateArgs class" Url="html/83e1f9ba-7771-a27a-7c07-926f8d8cc730.htm" />
   <HelpKINode Title="GenericUpdateArgs class">
-    <HelpKINode Title="about GenericUpdateArgs class" Url="html/efa8a921-eede-5722-fb38-2d3b778d0d41.htm" />
-    <HelpKINode Title="all members" Url="html/fb610857-aa41-7e51-4974-bdecf82ad72f.htm" />
-    <HelpKINode Title="constructor" Url="html/c6c91d12-1399-a7dc-9b79-21b5f39e0d35.htm" />
-    <HelpKINode Title="methods" Url="html/59133eca-ad2c-d613-b846-b5b29b591524.htm" />
-    <HelpKINode Title="properties" Url="html/e8d955a2-59b4-c44a-b8bb-bd6e631374fc.htm" />
+    <HelpKINode Title="about GenericUpdateArgs class" Url="html/83e1f9ba-7771-a27a-7c07-926f8d8cc730.htm" />
+    <HelpKINode Title="all members" Url="html/3df0c2ca-a7b4-c96e-a65b-4d8ac7d27a67.htm" />
+    <HelpKINode Title="constructor" Url="html/d9e6a396-c2a8-ef2a-fa9a-691c7bbc832c.htm" />
+    <HelpKINode Title="methods" Url="html/f1a6cac6-7668-507f-1c9f-fab5b9c70443.htm" />
+    <HelpKINode Title="properties" Url="html/c40b95f0-dc94-690c-fee2-cfb034d1ad25.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericUpdateArgs.GenericUpdateArgs constructor" Url="html/c6c91d12-1399-a7dc-9b79-21b5f39e0d35.htm" />
-  <HelpKINode Title="GenericUpdateArgs.GetOldDataItem(Of T) method" Url="html/de637f90-5f0a-53d7-083f-f02a1ee7412b.htm" />
-  <HelpKINode Title="GenericUpdateArgs.GetOldDataItem&lt;T&gt; method" Url="html/de637f90-5f0a-53d7-083f-f02a1ee7412b.htm" />
-  <HelpKINode Title="GenericUpdateArgs.OldValues property" Url="html/e60b3c8c-eb95-a299-2aff-5f616c9d0008.htm" />
-  <HelpKINode Title="GenericUtility class" Url="html/71cf312f-b963-2dfe-0c3e-d42693f002ee.htm" />
-  <HelpKINode Title="GenericUtility class" Url="html/e3907c71-3dd7-111b-d2aa-5085b50e1ac0.htm" />
+  <HelpKINode Title="GenericUpdateArgs.GenericUpdateArgs constructor" Url="html/d9e6a396-c2a8-ef2a-fa9a-691c7bbc832c.htm" />
+  <HelpKINode Title="GenericUpdateArgs.GetOldDataItem(Of T) method" Url="html/a849ae03-54c7-d993-02b1-091a25a70528.htm" />
+  <HelpKINode Title="GenericUpdateArgs.GetOldDataItem&lt;T&gt; method" Url="html/a849ae03-54c7-d993-02b1-091a25a70528.htm" />
+  <HelpKINode Title="GenericUpdateArgs.OldValues property" Url="html/c4845c65-8846-da1b-2f5a-71d16e3dce7d.htm" />
+  <HelpKINode Title="GenericUtility class" Url="html/75e65225-1a85-c578-8e98-d4729096a4a1.htm" />
+  <HelpKINode Title="GenericUtility class" Url="html/dbfb6fbf-e334-5284-4468-d584f9a44315.htm" />
   <HelpKINode Title="GenericUtility class">
-    <HelpKINode Title="about GenericUtility class" Url="html/e3907c71-3dd7-111b-d2aa-5085b50e1ac0.htm" />
-    <HelpKINode Title="all members" Url="html/71cf312f-b963-2dfe-0c3e-d42693f002ee.htm" />
-    <HelpKINode Title="methods" Url="html/5edafaba-03f6-7569-32fc-ee0bf6595287.htm" />
+    <HelpKINode Title="about GenericUtility class" Url="html/dbfb6fbf-e334-5284-4468-d584f9a44315.htm" />
+    <HelpKINode Title="all members" Url="html/75e65225-1a85-c578-8e98-d4729096a4a1.htm" />
+    <HelpKINode Title="methods" Url="html/efef333a-408c-ec83-bbcc-8cb64d3af7d9.htm" />
   </HelpKINode>
-  <HelpKINode Title="GenericUtility.BuildObject(Of T) method" Url="html/128d58aa-f806-a67e-43fb-d63b6821c6c1.htm" />
-  <HelpKINode Title="GenericUtility.BuildObject&lt;T&gt; method" Url="html/128d58aa-f806-a67e-43fb-d63b6821c6c1.htm" />
-  <HelpKINode Title="GenericUtility.ConvertTo method" Url="html/c2e08221-f047-08fd-ca41-9ef4891fc479.htm" />
-  <HelpKINode Title="GenericUtility.Page method" Url="html/78dd9476-a753-ea23-0dba-f799b6e47da3.htm" />
-  <HelpKINode Title="GenericUtility.Sort method" Url="html/0bd97261-7908-f28f-8632-6005d4aaa753.htm" />
-  <HelpKINode Title="GetDataItem(Of T) method" Url="html/fd6a2d06-e6ea-8187-bba3-c1392e9c5465.htm" />
-  <HelpKINode Title="GetDataItem&lt;T&gt; method" Url="html/fd6a2d06-e6ea-8187-bba3-c1392e9c5465.htm" />
-  <HelpKINode Title="GetOldDataItem(Of T) method" Url="html/de637f90-5f0a-53d7-083f-f02a1ee7412b.htm" />
-  <HelpKINode Title="GetOldDataItem&lt;T&gt; method" Url="html/de637f90-5f0a-53d7-083f-f02a1ee7412b.htm" />
-  <HelpKINode Title="GetView method" Url="html/43c235bc-5280-6606-eb6c-6a5b8d31f1b4.htm" />
-  <HelpKINode Title="GetViewNames method" Url="html/329c766d-c53f-a700-d673-68a7b32eeba3.htm" />
+  <HelpKINode Title="GenericUtility.BuildObject(Of T) method" Url="html/3a325920-fc08-02d6-4c3d-ee785a625dde.htm" />
+  <HelpKINode Title="GenericUtility.BuildObject&lt;T&gt; method" Url="html/3a325920-fc08-02d6-4c3d-ee785a625dde.htm" />
+  <HelpKINode Title="GenericUtility.ConvertTo method" Url="html/3a180d61-33f5-218c-c8ac-541583ed0c14.htm" />
+  <HelpKINode Title="GenericUtility.Page method" Url="html/9eb915cd-62b6-88f5-cfe2-6c2cf2911e85.htm" />
+  <HelpKINode Title="GenericUtility.Sort method" Url="html/0e6c8a7a-9c5b-c635-328d-aaf0a5f49a40.htm" />
+  <HelpKINode Title="GetDataItem(Of T) method" Url="html/b72efc5f-8b98-4a33-eef1-346f12e759a4.htm" />
+  <HelpKINode Title="GetDataItem&lt;T&gt; method" Url="html/b72efc5f-8b98-4a33-eef1-346f12e759a4.htm" />
+  <HelpKINode Title="GetOldDataItem(Of T) method" Url="html/a849ae03-54c7-d993-02b1-091a25a70528.htm" />
+  <HelpKINode Title="GetOldDataItem&lt;T&gt; method" Url="html/a849ae03-54c7-d993-02b1-091a25a70528.htm" />
+  <HelpKINode Title="GetView method" Url="html/bf1e1910-fe78-e3cd-ba30-cfbdd3a335ca.htm" />
+  <HelpKINode Title="GetViewNames method" Url="html/f499d552-8452-ab3e-ad02-5f336f4e9840.htm" />
   <HelpKINode Title="GroupBy method" Url="html/0262d4b6-ffb5-c34c-2d8b-78b7b047444c.htm" />
-  <HelpKINode Title="Insert method" Url="html/d69623be-8a21-aba7-9dcb-1d75b6cb987c.htm" />
-  <HelpKINode Title="Keys property" Url="html/a22e98a7-c0bd-976e-8fdd-74765f181cc9.htm" />
-  <HelpKINode Title="LoadViewState method" Url="html/79b5cbe4-06e1-e8b8-c02c-7ec2bd995aeb.htm" />
+  <HelpKINode Title="Insert method" Url="html/76f4e37b-a16b-028f-95d8-c120891e8a4c.htm" />
+  <HelpKINode Title="Keys property" Url="html/e5e6e2da-6a22-e4f5-62be-89bacecdb5be.htm" />
+  <HelpKINode Title="LoadViewState method" Url="html/a25900f5-367b-942f-58b5-4c6b575f3d15.htm" />
   <HelpKINode Title="Name property" Url="html/adeca954-831e-7cc3-d79c-b39d459d9fcb.htm" />
-  <HelpKINode Title="OCDataSource(Of TContext, TElement) class" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-  <HelpKINode Title="OCDataSource(Of TContext, TElement) class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm" />
+  <HelpKINode Title="OCDataSource(Of TContext, TElement) class" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+  <HelpKINode Title="OCDataSource(Of TContext, TElement) class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm" />
   <HelpKINode Title="OCDataSource(Of TContext, TElement) class">
-    <HelpKINode Title="about OCDataSource(Of TContext, TElement) class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm" />
-    <HelpKINode Title="all members" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-    <HelpKINode Title="constructor" Url="html/9c3d571e-60f5-179d-8a1a-114f1ed94fbe.htm" />
-    <HelpKINode Title="events" Url="html/f9993b11-b9e6-8450-4d9e-479896ceb64f.htm" />
-    <HelpKINode Title="fields" Url="html/3351139c-b62b-d718-4d66-2abce490b274.htm" />
-    <HelpKINode Title="methods" Url="html/5b8f796f-0d01-fb63-67df-456e9e92a939.htm" />
-    <HelpKINode Title="properties" Url="html/555ae724-42ca-6c0f-1ef5-9fd4337768e9.htm" />
+    <HelpKINode Title="about OCDataSource(Of TContext, TElement) class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm" />
+    <HelpKINode Title="all members" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+    <HelpKINode Title="constructor" Url="html/ec221767-ae5e-2c94-e181-721effcd8ab0.htm" />
+    <HelpKINode Title="events" Url="html/9c3efcbb-8317-f32c-2aeb-ec07930fa334.htm" />
+    <HelpKINode Title="methods" Url="html/e7e3d471-856b-3676-ccc7-2aa18095a7d9.htm" />
+    <HelpKINode Title="properties" Url="html/fbb74498-caec-0538-a5fa-233272235e51.htm" />
   </HelpKINode>
-  <HelpKINode Title="OCDataSource(Of TContext, TElement).Context property" Url="html/cf3ba697-87eb-4b2c-9b88-8df77375ac3d.htm" />
-  <HelpKINode Title="OCDataSource(Of TContext, TElement).OCDataSource constructor" Url="html/9c3d571e-60f5-179d-8a1a-114f1ed94fbe.htm" />
-  <HelpKINode Title="OCDataSource(Of TContext, TElement).ViewName field" Url="html/1fcf3bde-ebe4-9550-b18d-aec019f36a90.htm" />
-  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt; class" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt; class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm" />
+  <HelpKINode Title="OCDataSource(Of TContext, TElement).Context property" Url="html/4c2f7d29-08e7-b2a7-19e7-64590831112e.htm" />
+  <HelpKINode Title="OCDataSource(Of TContext, TElement).OCDataSource constructor" Url="html/ec221767-ae5e-2c94-e181-721effcd8ab0.htm" />
+  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt; class" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt; class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm" />
   <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt; class">
-    <HelpKINode Title="about OCDataSource&lt;TContext, TElement&gt; class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm" />
-    <HelpKINode Title="all members" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-    <HelpKINode Title="constructor" Url="html/9c3d571e-60f5-179d-8a1a-114f1ed94fbe.htm" />
-    <HelpKINode Title="events" Url="html/f9993b11-b9e6-8450-4d9e-479896ceb64f.htm" />
-    <HelpKINode Title="fields" Url="html/3351139c-b62b-d718-4d66-2abce490b274.htm" />
-    <HelpKINode Title="methods" Url="html/5b8f796f-0d01-fb63-67df-456e9e92a939.htm" />
-    <HelpKINode Title="properties" Url="html/555ae724-42ca-6c0f-1ef5-9fd4337768e9.htm" />
+    <HelpKINode Title="about OCDataSource&lt;TContext, TElement&gt; class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm" />
+    <HelpKINode Title="all members" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+    <HelpKINode Title="constructor" Url="html/ec221767-ae5e-2c94-e181-721effcd8ab0.htm" />
+    <HelpKINode Title="events" Url="html/9c3efcbb-8317-f32c-2aeb-ec07930fa334.htm" />
+    <HelpKINode Title="methods" Url="html/e7e3d471-856b-3676-ccc7-2aa18095a7d9.htm" />
+    <HelpKINode Title="properties" Url="html/fbb74498-caec-0538-a5fa-233272235e51.htm" />
   </HelpKINode>
-  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt;.Context property" Url="html/cf3ba697-87eb-4b2c-9b88-8df77375ac3d.htm" />
-  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt;.OCDataSource constructor" Url="html/9c3d571e-60f5-179d-8a1a-114f1ed94fbe.htm" />
-  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt;.ViewName field" Url="html/1fcf3bde-ebe4-9550-b18d-aec019f36a90.htm" />
-  <HelpKINode Title="OldValues property" Url="html/e60b3c8c-eb95-a299-2aff-5f616c9d0008.htm" />
-  <HelpKINode Title="OnDataBinding method" Url="html/9778c940-8573-4dd9-ac8a-72c4236730f8.htm" />
-  <HelpKINode Title="OnDataBinding method" Url="html/a0506c60-2781-5d52-2521-b85dec3f0e0c.htm" />
-  <HelpKINode Title="OnDelete method" Url="html/56e1c9ec-cd7a-83f1-295f-8bb3ec9ceee0.htm" />
-  <HelpKINode Title="OnDelete method" Url="html/9852b833-27ba-3e98-37c6-b353c70816c8.htm" />
-  <HelpKINode Title="OnExecuteDelete method" Url="html/d9063163-87ff-ba06-a87a-c4f57ebf9715.htm" />
-  <HelpKINode Title="OnExecuteInsert method" Url="html/2be55d65-1940-3eb1-44a5-8ce9a3722a9f.htm" />
-  <HelpKINode Title="OnExecuteSelect method" Url="html/6900e521-ad4a-5594-e879-26fad0ba6e34.htm" />
-  <HelpKINode Title="OnExecuteUpdate method" Url="html/2bf9d94d-0947-21cb-cf1b-2c751060a3b5.htm" />
-  <HelpKINode Title="OnInsert method" Url="html/3f5c652a-5dfd-9778-8e10-10e8906094f6.htm" />
-  <HelpKINode Title="OnInsert method" Url="html/81ca3307-1f39-073f-7979-63378e2abc82.htm" />
-  <HelpKINode Title="OnSelect method" Url="html/b022a61e-66f2-b239-af82-64a523396730.htm" />
-  <HelpKINode Title="OnSelect method" Url="html/b952dd3c-6170-2be2-55b9-e8827563e864.htm" />
-  <HelpKINode Title="OnUnload method" Url="html/2c3fce6a-9bb8-f9ae-90f1-6a2a0162aa59.htm" />
-  <HelpKINode Title="OnUnload method" Url="html/6ff8f162-6721-6c07-e2d0-594404749a0a.htm" />
-  <HelpKINode Title="OnUpdate method" Url="html/70d5f6f9-0a1a-91da-703b-7c4629c35272.htm" />
-  <HelpKINode Title="OnUpdate method" Url="html/b01051f9-b173-9d9b-be97-23744a813020.htm" />
+  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt;.Context property" Url="html/4c2f7d29-08e7-b2a7-19e7-64590831112e.htm" />
+  <HelpKINode Title="OCDataSource&lt;TContext, TElement&gt;.OCDataSource constructor" Url="html/ec221767-ae5e-2c94-e181-721effcd8ab0.htm" />
+  <HelpKINode Title="OldValues property" Url="html/c4845c65-8846-da1b-2f5a-71d16e3dce7d.htm" />
+  <HelpKINode Title="OnDataBinding method" Url="html/afdc80e6-5799-023c-8826-b2733b0594f5.htm" />
+  <HelpKINode Title="OnDataBinding method" Url="html/c9e23dec-639e-66c4-5f0e-3d3e16fe2d1a.htm" />
+  <HelpKINode Title="OnDelete method" Url="html/606985f9-26b1-4167-77f9-c435dcc9d83f.htm" />
+  <HelpKINode Title="OnDelete method" Url="html/6d202c68-2b0b-7a84-a7de-827c9d912b8f.htm" />
+  <HelpKINode Title="OnExecuteDelete method" Url="html/90845afc-ca6b-f3a6-f4f6-ddcbedfba7d3.htm" />
+  <HelpKINode Title="OnExecuteInsert method" Url="html/94223b88-9b4d-ca91-0f30-92da6a7c6124.htm" />
+  <HelpKINode Title="OnExecuteSelect method" Url="html/13cb914e-6d92-e3cb-bf74-6aa18cd271bf.htm" />
+  <HelpKINode Title="OnExecuteUpdate method" Url="html/901a2fac-141c-5edb-f3c3-e44501b0928e.htm" />
+  <HelpKINode Title="OnInsert method" Url="html/a0e7e622-f94b-abf3-92be-14a3f79a2cbf.htm" />
+  <HelpKINode Title="OnInsert method" Url="html/af650445-6340-7996-2534-bb16dc6240d6.htm" />
+  <HelpKINode Title="OnSelect method" Url="html/acf88a53-4516-2d8d-9689-7aedd62de572.htm" />
+  <HelpKINode Title="OnSelect method" Url="html/bfc954fa-95d6-22e9-fd2c-302d44cc25b3.htm" />
+  <HelpKINode Title="OnUnload method" Url="html/7b1d8183-74ac-f22b-1895-e4ad45242224.htm" />
+  <HelpKINode Title="OnUnload method" Url="html/912e5e34-b0cc-3581-bf90-e16e1f0dca2b.htm" />
+  <HelpKINode Title="OnUpdate method" Url="html/2f552211-046e-f9b2-601a-fe6661fb118d.htm" />
+  <HelpKINode Title="OnUpdate method" Url="html/feafc87e-733a-6d2d-d721-32d1d2549686.htm" />
   <HelpKINode Title="OrderBy method" Url="html/fb851847-7124-07e6-f2c7-4e0e6f268bb6.htm" />
-  <HelpKINode Title="Page method" Url="html/78dd9476-a753-ea23-0dba-f799b6e47da3.htm" />
+  <HelpKINode Title="Page method" Url="html/9eb915cd-62b6-88f5-cfe2-6c2cf2911e85.htm" />
   <HelpKINode Title="Parse method" Url="html/5799df07-60cd-1fbf-d6c6-2964f0dc1ea6.htm" />
   <HelpKINode Title="ParseException class" Url="html/5842a0bf-39d1-305f-e166-8bf5603a2bc8.htm" />
   <HelpKINode Title="ParseException class" Url="html/bda0d12c-9196-f62d-271e-317bafef261d.htm" />
@@ -402,48 +396,21 @@
   <HelpKINode Title="ParseException.ToString method" Url="html/7988172f-f472-b77c-749a-7b89ddeeb5d7.htm" />
   <HelpKINode Title="ParseLambda method" Url="html/64c9c68c-e44b-19d0-be7c-aa0214b9076e.htm" />
   <HelpKINode Title="Position property" Url="html/f5973da6-cbd8-c014-a39b-f62bc6bd585b.htm" />
-  <HelpKINode Title="Projection property" Url="html/4e9cf4fb-5834-3a6f-0dd3-444a0e247277.htm" />
-  <HelpKINode Title="Projection property" Url="html/4f272bf6-feab-8f9d-42ef-96d55e907eb8.htm" />
-  <HelpKINode Title="RowsAffected property" Url="html/c04add70-986a-19a4-7ebc-4bd4af1293f8.htm" />
-  <HelpKINode Title="SaveViewState method" Url="html/6ed7eb3f-3ba4-d83a-dbb3-3b331efc7d80.htm" />
+  <HelpKINode Title="Projection property" Url="html/5625cb05-1ce6-8b5d-f043-f583e981a24d.htm" />
+  <HelpKINode Title="Projection property" Url="html/ee5a7d96-5cc5-af47-1103-33004302aa2b.htm" />
+  <HelpKINode Title="RowsAffected property" Url="html/d98c1adb-2456-eb2c-a376-19987b4c233b.htm" />
+  <HelpKINode Title="SaveViewState method" Url="html/f74331dc-eb0b-4ec2-166a-79f32c272404.htm" />
   <HelpKINode Title="Select method" Url="html/22501155-d647-e227-3ecc-bec655bb189f.htm" />
-  <HelpKINode Title="Select method" Url="html/94f2519f-f9b9-9bcc-0e89-df2ade572725.htm" />
-  <HelpKINode Title="Select property" Url="html/04bfd718-2688-6d07-3689-46bcbf9428ce.htm" />
-  <HelpKINode Title="Select property" Url="html/f11dc0bb-6eba-67e3-ab1d-8cb0dcdb4e84.htm" />
-  <HelpKINode Title="SelectArguments property" Url="html/b2c86926-f775-aae2-aba0-51ee29e729c8.htm" />
-  <HelpKINode Title="Set property" Url="html/e83b26bd-6007-ce68-367c-d4324b148508.htm" />
-  <HelpKINode Title="SetData method" Url="html/5020a5c6-2b6c-e803-e778-53b95d2fc5cd.htm" />
-  <HelpKINode Title="SetPagedData method" Url="html/dff61224-97e2-a3e8-11c7-c1eaabbb24f6.htm" />
-  <HelpKINode Title="Silversite.Web.UI namespace" Url="html/48b884c7-576e-1e6d-e406-d0e1e60af3b6.htm" />
-  <HelpKINode Title="Silversite.Web.UI.DbDataSource class" Url="html/484ff0f6-c64f-0382-da71-8279f49a6222.htm" />
-  <HelpKINode Title="Silversite.Web.UI.DbDataSource class" Url="html/c2f34b9f-d6d1-474d-8e7a-9aae52f37f24.htm" />
-  <HelpKINode Title="Silversite.Web.UI.DbDataSource(Of TContext, TElement) class" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-  <HelpKINode Title="Silversite.Web.UI.DbDataSource(Of TContext, TElement) class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm" />
-  <HelpKINode Title="Silversite.Web.UI.DbDataSource&lt;TContext, TElement&gt; class" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-  <HelpKINode Title="Silversite.Web.UI.DbDataSource&lt;TContext, TElement&gt; class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericArgsDataItem class" Url="html/801dff64-bf15-580e-4ce7-84cb8464c463.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericArgsDataItem class" Url="html/88518af9-11dd-72d8-fe2c-924a9cf84898.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericDataArgs class" Url="html/bba0da0a-56b1-aa8e-65c3-889dbe4400fc.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericDataArgs class" Url="html/e7f86a87-8e3e-e4f0-73c5-25d296ae5475.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericDataSource class" Url="html/71fc407f-c20e-e6fc-f650-009a8864fe2f.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericDataSource class" Url="html/e1779ee6-f91e-db03-8149-76c100626058.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericDataSourceView class" Url="html/19744fbe-834f-e1a1-e24e-8fcf0c34d75e.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericDataSourceView class" Url="html/a457e89e-258a-3eeb-41d5-06e9e6efc9e8.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericKeyDataArgs class" Url="html/260133dd-3d90-12bb-46dd-1fee8e8765ec.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericKeyDataArgs class" Url="html/871d7a4e-36fa-d7b8-682f-389736c457ee.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericSelectArgs class" Url="html/8a4dc36d-7289-682d-8266-73832cc86d98.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericSelectArgs class" Url="html/a22371d4-ab80-c6ed-89e3-cc0020a43ae7.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericUpdateArgs class" Url="html/efa8a921-eede-5722-fb38-2d3b778d0d41.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericUpdateArgs class" Url="html/fb610857-aa41-7e51-4974-bdecf82ad72f.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericUtility class" Url="html/71cf312f-b963-2dfe-0c3e-d42693f002ee.htm" />
-  <HelpKINode Title="Silversite.Web.UI.GenericUtility class" Url="html/e3907c71-3dd7-111b-d2aa-5085b50e1ac0.htm" />
-  <HelpKINode Title="Silversite.Web.UI.OCDataSource(Of TContext, TElement) class" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-  <HelpKINode Title="Silversite.Web.UI.OCDataSource(Of TContext, TElement) class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm" />
-  <HelpKINode Title="Silversite.Web.UI.OCDataSource&lt;TContext, TElement&gt; class" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-  <HelpKINode Title="Silversite.Web.UI.OCDataSource&lt;TContext, TElement&gt; class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm" />
+  <HelpKINode Title="Select method" Url="html/e506e679-c53e-693c-7a8f-283aa5a9471a.htm" />
+  <HelpKINode Title="Select property" Url="html/086bfbe6-953b-3b81-69ba-0cdba8c080d1.htm" />
+  <HelpKINode Title="Select property" Url="html/9eddefac-70d2-abd0-46aa-ba999ff9853f.htm" />
+  <HelpKINode Title="SelectArguments property" Url="html/aa3b8cd3-ea82-b8b5-395a-db0a0e5bc7ae.htm" />
+  <HelpKINode Title="Set property" Url="html/922c2dd5-d9ca-fb29-3197-649901f2991d.htm" />
+  <HelpKINode Title="SetData method" Url="html/ff465cfa-594a-8c85-fc86-2da69181364e.htm" />
+  <HelpKINode Title="SetPagedData method" Url="html/e983c329-a7d6-837e-4910-2f0e4431a6ae.htm" />
   <HelpKINode Title="Skip method" Url="html/6c55e76f-701d-419c-83ec-f13e16151a2e.htm" />
-  <HelpKINode Title="Sort method" Url="html/0bd97261-7908-f28f-8632-6005d4aaa753.htm" />
-  <HelpKINode Title="Source property" Url="html/6fe58b90-86d1-da6d-895b-58f6e748f5d3.htm" />
+  <HelpKINode Title="Sort method" Url="html/0e6c8a7a-9c5b-c635-328d-aaf0a5f49a40.htm" />
+  <HelpKINode Title="Source property" Url="html/b64d8550-e8ac-b06b-7ae9-1392d43c405d.htm" />
   <HelpKINode Title="System.Linq.Dynamic namespace" Url="html/4193e9c4-2d65-59cb-5c75-2ae8143d6570.htm" />
   <HelpKINode Title="System.Linq.Dynamic.DynamicClass class" Url="html/558c3d5e-a640-caf0-0888-6dd311d46f91.htm" />
   <HelpKINode Title="System.Linq.Dynamic.DynamicClass class" Url="html/ecddb75e-b997-f396-4ae4-81bdd844cd7d.htm" />
@@ -455,19 +422,44 @@
   <HelpKINode Title="System.Linq.Dynamic.DynamicQueryable class" Url="html/bae60e6f-256c-1882-5c92-c858703123e3.htm" />
   <HelpKINode Title="System.Linq.Dynamic.ParseException class" Url="html/5842a0bf-39d1-305f-e166-8bf5603a2bc8.htm" />
   <HelpKINode Title="System.Linq.Dynamic.ParseException class" Url="html/bda0d12c-9196-f62d-271e-317bafef261d.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls namespace" Url="html/d62aaf5d-d0f8-8bf6-4764-eb0829d2b1b5.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.DbDataSource class" Url="html/8437ba14-f9d2-aaa2-9426-0be251eeb4bc.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.DbDataSource class" Url="html/acbc412f-7722-5cdc-7729-b5226e074882.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.DbDataSource(Of TContext, TElement) class" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.DbDataSource(Of TContext, TElement) class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.DbDataSource&lt;TContext, TElement&gt; class" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.DbDataSource&lt;TContext, TElement&gt; class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericArgsDataItem class" Url="html/7c720c9d-008b-4a04-12d7-1fd4214e7ddb.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericArgsDataItem class" Url="html/d741ffaf-4e91-0676-8d40-11c0a8a63bc5.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericDataArgs class" Url="html/2ec37c5f-aa4e-6aa6-7cf3-676da7358a11.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericDataArgs class" Url="html/ca9b6b6e-338f-7131-ebdc-b6b5993c0c5a.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericDataSource class" Url="html/154875dd-ff08-228e-a18d-5cd806bd6093.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericDataSource class" Url="html/27af60f9-39d7-a223-d000-11c84d36e56e.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericDataSourceView class" Url="html/2ff2681f-2b33-36f3-cbaf-9af657b063af.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericDataSourceView class" Url="html/cff27328-e51b-ee46-62af-68f0ee79a9b0.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericKeyDataArgs class" Url="html/99f96dce-089c-24a4-d544-08d13e534d93.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericKeyDataArgs class" Url="html/be4b3bb2-2635-9f2c-9b40-bb66f3e3d26f.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericSelectArgs class" Url="html/33d0b0c8-0c82-ebba-a3b5-5249615d8881.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericSelectArgs class" Url="html/3bcb595a-2469-1d53-f494-a48963654497.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericUpdateArgs class" Url="html/3df0c2ca-a7b4-c96e-a65b-4d8ac7d27a67.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericUpdateArgs class" Url="html/83e1f9ba-7771-a27a-7c07-926f8d8cc730.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericUtility class" Url="html/75e65225-1a85-c578-8e98-d4729096a4a1.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.GenericUtility class" Url="html/dbfb6fbf-e334-5284-4468-d584f9a44315.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.OCDataSource(Of TContext, TElement) class" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.OCDataSource(Of TContext, TElement) class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.OCDataSource&lt;TContext, TElement&gt; class" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+  <HelpKINode Title="System.Web.UI.WebControls.OCDataSource&lt;TContext, TElement&gt; class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm" />
   <HelpKINode Title="Take method" Url="html/7944d895-0474-da9d-7090-532de3eb9a99.htm" />
   <HelpKINode Title="ToString method" Url="html/7988172f-f472-b77c-749a-7b89ddeeb5d7.htm" />
   <HelpKINode Title="ToString method" Url="html/9786dfe7-9e64-3142-6a70-cdd875bda1a6.htm" />
   <HelpKINode Title="Type property" Url="html/ba1c7d35-4aa6-635e-ee95-f53443dcf7b0.htm" />
-  <HelpKINode Title="Update method" Url="html/62eca1e8-2346-488b-45fb-4f18c731b57c.htm" />
-  <HelpKINode Title="Value(Of T) method" Url="html/49824515-df95-8008-5c30-13e3a02ba094.htm" />
-  <HelpKINode Title="Value&lt;T&gt; method" Url="html/49824515-df95-8008-5c30-13e3a02ba094.htm" />
-  <HelpKINode Title="Values property" Url="html/4289aca9-6489-c2c4-a1d1-5e6a21f7dc4c.htm" />
-  <HelpKINode Title="Values property" Url="html/95f74d2b-851d-1527-e1ef-52ccf9943a79.htm" />
-  <HelpKINode Title="ViewName field" Url="html/1fcf3bde-ebe4-9550-b18d-aec019f36a90.htm" />
-  <HelpKINode Title="ViewName field" Url="html/aee5649a-eb36-8463-ca72-6669de98cbfc.htm" />
-  <HelpKINode Title="ViewName field" Url="html/ff48e38a-c06a-c458-883b-5b2271a989b1.htm" />
+  <HelpKINode Title="Update method" Url="html/dcf538d6-04c9-d875-8dc5-461777987a15.htm" />
+  <HelpKINode Title="Value(Of T) method" Url="html/b340844f-654d-2a90-7158-069e1d1cca0b.htm" />
+  <HelpKINode Title="Value&lt;T&gt; method" Url="html/b340844f-654d-2a90-7158-069e1d1cca0b.htm" />
+  <HelpKINode Title="Values property" Url="html/6bff74b9-f006-0c52-2262-0e46aa2ede26.htm" />
+  <HelpKINode Title="Values property" Url="html/8d581db5-fbdf-027e-910d-41b995ab64c2.htm" />
+  <HelpKINode Title="ViewName field" Url="html/b7aefa05-3950-7862-543e-2bbeb8a94c65.htm" />
   <HelpKINode Title="Where method" Url="html/7b456d4c-7294-4d66-6baf-bb298615907c.htm" />
-  <HelpKINode Title="Where property" Url="html/0e56b9c4-bf0d-a66f-7a85-220392ca1c34.htm" />
-  <HelpKINode Title="Where property" Url="html/f01f66fc-e441-4e1f-3367-578ca4e93eef.htm" />
+  <HelpKINode Title="Where property" Url="html/3300c2ee-f2ca-7435-9247-36ff1141adcc.htm" />
+  <HelpKINode Title="Where property" Url="html/35c87029-dc6e-bf1d-732d-a5c06306dfa6.htm" />
 </HelpKI>

@@ -7,7 +7,8 @@ using System.Collections.ObjectModel;
 using System.Collections;
 using System.Linq.Dynamic;
 
-namespace Silversite.Web.UI {
+namespace System.Web.UI.WebControls
+{
 	public class GenericDataSource: DataSourceControl {
 		/// <summary>
 		/// Occurs when the GenericDataSource control performs Select operation. This event must be handled to support the data Retrieval (Select) operation.

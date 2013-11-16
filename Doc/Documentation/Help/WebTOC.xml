@@ -1,273 +1,265 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpTOC>
 
-  <HelpTOCNode Id="1f83fee0-a617-45d2-a2d7-2f1f494027bb" Title="Silversite.Web.UI Namespace" Url="html/48b884c7-576e-1e6d-e406-d0e1e60af3b6.htm">
-    <HelpTOCNode Id="20c072db-d6d6-4c0d-853e-3bb2c628ca3f" Title="DbDataSource Class" Url="html/c2f34b9f-d6d1-474d-8e7a-9aae52f37f24.htm">
-      <HelpTOCNode Title="DbDataSource Members" Url="html/484ff0f6-c64f-0382-da71-8279f49a6222.htm" />
-      <HelpTOCNode Id="8519b9f2-323f-438a-87ef-69c7dfde9c25" Title="DbDataSource Constructor " Url="html/f32a1fcb-0208-83ae-7dc8-705a230d265d.htm">
-        <HelpTOCNode Title="DbDataSource Constructor " Url="html/60b53140-63de-daee-e7c2-3ded7894fe36.htm" />
-        <HelpTOCNode Title="DbDataSource Constructor (String)" Url="html/2d349d73-611b-6585-379a-06d407234a8e.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="c9ce389a-5bb3-4bd3-aa14-a4e575640b83" Title="DbDataSource Fields" Url="html/1dd84fc3-b757-4fa3-0325-f87289beb180.htm">
-        <HelpTOCNode Title="ViewName Field" Url="html/ff48e38a-c06a-c458-883b-5b2271a989b1.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="a65a2099-69d6-4d47-94a8-4accc4f8e7db" Title="DbDataSource Methods" Url="html/00bc46fa-6b8e-3765-c008-e93b8cf97318.htm">
-        <HelpTOCNode Title="OnDataBinding Method " Url="html/9778c940-8573-4dd9-ac8a-72c4236730f8.htm" />
-        <HelpTOCNode Title="OnDelete Method " Url="html/9852b833-27ba-3e98-37c6-b353c70816c8.htm" />
-        <HelpTOCNode Title="OnInsert Method " Url="html/81ca3307-1f39-073f-7979-63378e2abc82.htm" />
-        <HelpTOCNode Title="OnSelect Method " Url="html/b952dd3c-6170-2be2-55b9-e8827563e864.htm" />
-        <HelpTOCNode Title="OnUnload Method " Url="html/6ff8f162-6721-6c07-e2d0-594404749a0a.htm" />
-        <HelpTOCNode Title="OnUpdate Method " Url="html/70d5f6f9-0a1a-91da-703b-7c4629c35272.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="f6a1b8c2-6a66-4829-a207-4f124cc9cc82" Title="DbDataSource Properties" Url="html/bc440c9f-051b-19c5-5d2e-fe58012270bc.htm">
-        <HelpTOCNode Title="Context Property " Url="html/757de5c9-2c53-92e4-b69f-6446f6277a1c.htm" />
-        <HelpTOCNode Title="ContextType Property " Url="html/f69db2e4-a303-514f-0cce-ad8d20a48b06.htm" />
-        <HelpTOCNode Title="CreateContext Property " Url="html/3ce02d77-f059-b8ae-0a71-9eafc703d57a.htm" />
-        <HelpTOCNode Title="CreateObjectContext Property " Url="html/9abfa15e-7681-ee21-fb1e-1c1bbf18a99e.htm" />
-        <HelpTOCNode Title="Data Property " Url="html/f38f5661-cc5e-06ce-93ff-8ca53f238a6b.htm" />
-        <HelpTOCNode Title="EnableDelete Property " Url="html/2a760335-f8d4-66c6-2eed-ab2f4300d926.htm" />
-        <HelpTOCNode Title="EnableInsert Property " Url="html/54cdf05f-a64f-4a42-7ff9-67347d86d580.htm" />
-        <HelpTOCNode Title="EnableUpdate Property " Url="html/d2317ebb-edb0-005d-447f-a14d033a4988.htm" />
-        <HelpTOCNode Title="EntitySetName Property " Url="html/2f615a03-595e-7d44-2698-85f8f3c36d86.htm" />
-        <HelpTOCNode Title="Projection Property " Url="html/4f272bf6-feab-8f9d-42ef-96d55e907eb8.htm" />
-        <HelpTOCNode Title="Select Property " Url="html/04bfd718-2688-6d07-3689-46bcbf9428ce.htm" />
-        <HelpTOCNode Title="Set Property " Url="html/e83b26bd-6007-ce68-367c-d4324b148508.htm" />
-        <HelpTOCNode Title="Source Property " Url="html/6fe58b90-86d1-da6d-895b-58f6e748f5d3.htm" />
-        <HelpTOCNode Title="Where Property " Url="html/0e56b9c4-bf0d-a66f-7a85-220392ca1c34.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="696d92c5-246c-4b17-81be-53073436402f" Title="DbDataSource Events" Url="html/7ea30b26-995b-e4ee-312b-76d803d41c09.htm">
-        <HelpTOCNode Title="Exception Event" Url="html/5ed2bf93-4dfd-bc2d-d425-708c0baf5c3c.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="55a873d0-8d75-4019-91aa-cbb29c4e6822" Title="DbDataSource(TContext, TElement) Class" Url="html/fcf7c7f8-7a3b-b41d-5aa2-1fcaa150baf8.htm">
-      <HelpTOCNode Title="DbDataSource(TContext, TElement) Members" Url="html/05274f2f-aacc-1913-2c0e-b9109f91f02b.htm" />
-      <HelpTOCNode Title="DbDataSource(TContext, TElement) Constructor " Url="html/039117bc-2338-77da-0716-ef5e94cb6eb9.htm" />
-      <HelpTOCNode Id="06f939e4-8302-4468-a6bd-e542a40fb58e" Title="DbDataSource(TContext, TElement) Fields" Url="html/808466a9-d86f-a2a9-3432-6b6f1661d2ea.htm">
-        <HelpTOCNode Title="ViewName Field" Url="html/aee5649a-eb36-8463-ca72-6669de98cbfc.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="a5417435-d757-4508-9625-b59942353708" Title="DbDataSource(TContext, TElement) Methods" Url="html/2f7918c4-8f05-65b6-669d-fd45e3606fa6.htm">
-        <HelpTOCNode Title="OnDataBinding Method " Url="html/a0506c60-2781-5d52-2521-b85dec3f0e0c.htm" />
-        <HelpTOCNode Title="OnDelete Method " Url="html/56e1c9ec-cd7a-83f1-295f-8bb3ec9ceee0.htm" />
-        <HelpTOCNode Title="OnInsert Method " Url="html/3f5c652a-5dfd-9778-8e10-10e8906094f6.htm" />
-        <HelpTOCNode Title="OnSelect Method " Url="html/b022a61e-66f2-b239-af82-64a523396730.htm" />
-        <HelpTOCNode Title="OnUnload Method " Url="html/2c3fce6a-9bb8-f9ae-90f1-6a2a0162aa59.htm" />
-        <HelpTOCNode Title="OnUpdate Method " Url="html/b01051f9-b173-9d9b-be97-23744a813020.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="7da8d13b-e394-4ca7-842c-ae6d530516e3" Title="DbDataSource(TContext, TElement) Properties" Url="html/3891ef8c-9300-cfe5-0799-b4714984a201.htm">
-        <HelpTOCNode Title="Context Property " Url="html/7a2bb9d1-5c78-fd3b-ba78-b7f2c8710291.htm" />
-        <HelpTOCNode Title="CreateContext Property " Url="html/9d1e213e-e124-65b8-d14e-5e35c867014f.htm" />
-        <HelpTOCNode Title="CreateObjectContext Property " Url="html/cddc3319-7cc8-0cb6-3e30-18a49dbe597b.htm" />
-        <HelpTOCNode Title="Data Property " Url="html/a57177c3-9aab-e666-cb50-465e7799ebe3.htm" />
-        <HelpTOCNode Title="EnableDelete Property " Url="html/0c4af372-65d0-81bf-afed-54a91cfc1f24.htm" />
-        <HelpTOCNode Title="EnableInsert Property " Url="html/30da45c8-fe05-3732-0702-bc29f153b4e0.htm" />
-        <HelpTOCNode Title="EnableUpdate Property " Url="html/e793750b-0206-383b-433c-8b4e60cb8ed3.htm" />
-        <HelpTOCNode Title="Projection Property " Url="html/4e9cf4fb-5834-3a6f-0dd3-444a0e247277.htm" />
-        <HelpTOCNode Title="Select Property " Url="html/f11dc0bb-6eba-67e3-ab1d-8cb0dcdb4e84.htm" />
-        <HelpTOCNode Title="Where Property " Url="html/f01f66fc-e441-4e1f-3367-578ca4e93eef.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="2168a736-93be-4798-8c8a-4732f73be97b" Title="DbDataSource(TContext, TElement) Events" Url="html/d25cdfb6-bd11-3609-3a05-9efef747cdfd.htm">
-        <HelpTOCNode Title="Exception Event" Url="html/974fb93a-54ad-e8c6-b965-2a5fbe87726c.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="a466eb12-b7c7-4c6a-9788-5e2f58caa094" Title="GenericArgsDataItem Class" Url="html/801dff64-bf15-580e-4ce7-84cb8464c463.htm">
-      <HelpTOCNode Title="GenericArgsDataItem Members" Url="html/88518af9-11dd-72d8-fe2c-924a9cf84898.htm" />
-      <HelpTOCNode Title="GenericArgsDataItem Constructor " Url="html/244f9b14-edcd-a85b-8095-7e6c80b8e911.htm" />
-      <HelpTOCNode Id="8bf0c017-c300-4437-a06a-a106d8e5fda6" Title="GenericArgsDataItem Methods" Url="html/b9cb3c79-00db-c329-99ee-b3825dbe255a.htm">
-        <HelpTOCNode Title="Fill(T) Method " Url="html/059a1594-8da8-38a8-1b62-7058a8b7919f.htm" />
-        <HelpTOCNode Title="Value(T) Method " Url="html/49824515-df95-8008-5c30-13e3a02ba094.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="49cc4b7a-0bfc-4f21-ae7c-658a42c8325a" Title="GenericArgsDataItem Properties" Url="html/9dc3ad80-bfe1-f9df-9b2c-ac3eff935323.htm">
-        <HelpTOCNode Title="Values Property " Url="html/4289aca9-6489-c2c4-a1d1-5e6a21f7dc4c.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="f2bc9052-df7e-4d55-b119-edda2b3a6ab9" Title="GenericDataArgs Class" Url="html/bba0da0a-56b1-aa8e-65c3-889dbe4400fc.htm">
-      <HelpTOCNode Title="GenericDataArgs Members" Url="html/e7f86a87-8e3e-e4f0-73c5-25d296ae5475.htm" />
-      <HelpTOCNode Title="GenericDataArgs Constructor " Url="html/536f2beb-d3da-c884-62e2-3598c68058db.htm" />
-      <HelpTOCNode Id="5bfedf18-70d4-46ef-b89b-ad220aef5da1" Title="GenericDataArgs Methods" Url="html/edef320f-268d-53bf-124b-d0b9d16d41c9.htm">
-        <HelpTOCNode Title="FillDataItem(T) Method " Url="html/3514f679-58f2-7d9a-d272-cbb69ba23e0f.htm" />
-        <HelpTOCNode Title="GetDataItem(T) Method " Url="html/fd6a2d06-e6ea-8187-bba3-c1392e9c5465.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="ca445003-e0ef-4c1f-895c-1131e03aa011" Title="GenericDataArgs Properties" Url="html/12edb9b9-3c21-9c3c-8ef5-67022b2fe1b8.htm">
-        <HelpTOCNode Title="DataItem Property " Url="html/a7c4d212-2679-9e54-c0d6-71d9748d2ffa.htm" />
-        <HelpTOCNode Title="RowsAffected Property " Url="html/c04add70-986a-19a4-7ebc-4bd4af1293f8.htm" />
-        <HelpTOCNode Title="Values Property " Url="html/95f74d2b-851d-1527-e1ef-52ccf9943a79.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="13701152-6f0b-4ead-b2f6-1f20da4cbc18" Title="GenericDataSource Class" Url="html/71fc407f-c20e-e6fc-f650-009a8864fe2f.htm">
-      <HelpTOCNode Title="GenericDataSource Members" Url="html/e1779ee6-f91e-db03-8149-76c100626058.htm" />
-      <HelpTOCNode Title="GenericDataSource Constructor " Url="html/e222d00c-7bc3-1226-a1e7-6871e4c459df.htm" />
-      <HelpTOCNode Id="f257b8e6-d22b-400e-a4ec-9de291755ed9" Title="GenericDataSource Methods" Url="html/ac2ae22d-8391-2478-cf2c-1459bccf7573.htm">
-        <HelpTOCNode Title="Delete Method " Url="html/f50de663-ac44-3722-c8f4-3edffddedabc.htm" />
-        <HelpTOCNode Title="GetView Method " Url="html/43c235bc-5280-6606-eb6c-6a5b8d31f1b4.htm" />
-        <HelpTOCNode Title="GetViewNames Method " Url="html/329c766d-c53f-a700-d673-68a7b32eeba3.htm" />
-        <HelpTOCNode Title="Insert Method " Url="html/d69623be-8a21-aba7-9dcb-1d75b6cb987c.htm" />
-        <HelpTOCNode Title="LoadViewState Method " Url="html/79b5cbe4-06e1-e8b8-c02c-7ec2bd995aeb.htm" />
-        <HelpTOCNode Title="OnExecuteDelete Method " Url="html/d9063163-87ff-ba06-a87a-c4f57ebf9715.htm" />
-        <HelpTOCNode Title="OnExecuteInsert Method " Url="html/2be55d65-1940-3eb1-44a5-8ce9a3722a9f.htm" />
-        <HelpTOCNode Title="OnExecuteSelect Method " Url="html/6900e521-ad4a-5594-e879-26fad0ba6e34.htm" />
-        <HelpTOCNode Title="OnExecuteUpdate Method " Url="html/2bf9d94d-0947-21cb-cf1b-2c751060a3b5.htm" />
-        <HelpTOCNode Title="SaveViewState Method " Url="html/6ed7eb3f-3ba4-d83a-dbb3-3b331efc7d80.htm" />
-        <HelpTOCNode Title="Select Method " Url="html/94f2519f-f9b9-9bcc-0e89-df2ade572725.htm" />
-        <HelpTOCNode Title="Update Method " Url="html/62eca1e8-2346-488b-45fb-4f18c731b57c.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="d3a70dd4-2191-4bb9-a1d2-5dc6d59d2248" Title="GenericDataSource Properties" Url="html/370af332-7bbb-c3ff-44e1-78ba7a202cd0.htm">
-        <HelpTOCNode Title="AutoPage Property " Url="html/4d377899-89d8-9bd7-6bb7-24bf1650e0aa.htm" />
-        <HelpTOCNode Title="AutoSort Property " Url="html/24be0e22-d5d6-b53a-ca8e-19056099057d.htm" />
-        <HelpTOCNode Title="DataSource Property " Url="html/cd9d909d-f25b-89c7-5f01-fe399ed99df4.htm" />
-        <HelpTOCNode Title="DefaultView Property " Url="html/fcfe9681-d495-6647-f7ca-18ada6a3df17.htm" />
-        <HelpTOCNode Title="DisableSelect Property " Url="html/fcdd127c-2390-74c1-7017-b5ca999213cc.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="6c5ef2fb-c38d-4660-b6bd-59f46e92c286" Title="GenericDataSource Events" Url="html/ad844a87-7ccd-afcd-6222-b4e0558c297f.htm">
-        <HelpTOCNode Title="ExecuteDelete Event" Url="html/e8a96f11-f2e6-a084-2618-768980f6b396.htm" />
-        <HelpTOCNode Title="ExecuteInsert Event" Url="html/297033fd-d74a-2f53-d4ef-abaf834c3c27.htm" />
-        <HelpTOCNode Title="ExecuteSelect Event" Url="html/7c5a8173-b86e-9f08-9752-b7ff75509f91.htm" />
-        <HelpTOCNode Title="ExecuteUpdate Event" Url="html/2ed8e786-cb99-5b44-6454-9de71fa57ef0.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="954deef6-bf71-4af3-93ee-490312b76a28" Title="GenericDataSourceView Class" Url="html/19744fbe-834f-e1a1-e24e-8fcf0c34d75e.htm">
-      <HelpTOCNode Title="GenericDataSourceView Members" Url="html/a457e89e-258a-3eeb-41d5-06e9e6efc9e8.htm" />
-      <HelpTOCNode Title="GenericDataSourceView Constructor " Url="html/10e024e4-dad1-45b2-9ba1-8dea0b8302e9.htm" />
-      <HelpTOCNode Id="e1feda78-2820-4dd1-afdd-800fa9cd91cc" Title="GenericDataSourceView Methods" Url="html/847296f2-4937-aa9b-4615-0191fd23953b.htm">
-        <HelpTOCNode Title="ExecuteDelete Method " Url="html/c4f499f1-4d51-128e-7a45-10208ad5eade.htm" />
-        <HelpTOCNode Title="ExecuteInsert Method " Url="html/a5a579df-f9aa-2740-57e3-74e2bba1f55c.htm" />
-        <HelpTOCNode Title="ExecuteSelect Method " Url="html/4975c09a-5f88-a966-0b9e-1113df333089.htm" />
-        <HelpTOCNode Title="ExecuteUpdate Method " Url="html/58673fa1-5aa0-ec31-fa08-9391d52914be.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="ef98461e-55d0-49c6-8f48-bd2813c8f077" Title="GenericDataSourceView Properties" Url="html/eefc20f7-f68d-8361-f4f1-929b4925e887.htm">
-        <HelpTOCNode Title="CanPage Property " Url="html/9f68a37f-d369-1024-cdb4-2e231ca50fe7.htm" />
-        <HelpTOCNode Title="CanRetrieveTotalRowCount Property " Url="html/928a5057-44fd-6297-d53b-a7e0d48b4d55.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="GenericDataSourceView Events" Url="html/dcd97bbd-c056-be51-0c5b-3f504d4ebe85.htm" />
-    </HelpTOCNode>
-    <HelpTOCNode Id="7316ae86-0abc-45ae-811f-c6d816e6ac4b" Title="GenericKeyDataArgs Class" Url="html/871d7a4e-36fa-d7b8-682f-389736c457ee.htm">
-      <HelpTOCNode Title="GenericKeyDataArgs Members" Url="html/260133dd-3d90-12bb-46dd-1fee8e8765ec.htm" />
-      <HelpTOCNode Title="GenericKeyDataArgs Constructor " Url="html/8c23c1f9-3f7d-bf88-14cd-ef1b8ff140a0.htm" />
-      <HelpTOCNode Id="f3e9dd67-8549-44bc-8451-62deb8dbd5b8" Title="GenericKeyDataArgs Methods" Url="html/d3311940-2849-83f0-a997-dfbe49dbf8c7.htm">
-        <HelpTOCNode Title="FillDataItem(T) Method " Url="html/d1a97346-462a-de9e-9581-0ef83eb7453b.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="6b7cbfa9-d1a6-4be6-9773-1ec4fffdd2b7" Title="GenericKeyDataArgs Properties" Url="html/02985ec2-c737-a5cd-d4e7-817d2ec6708e.htm">
-        <HelpTOCNode Title="Keys Property " Url="html/a22e98a7-c0bd-976e-8fdd-74765f181cc9.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="398ac29f-c0b5-42c8-b549-e926694b08ae" Title="GenericSelectArgs Class" Url="html/8a4dc36d-7289-682d-8266-73832cc86d98.htm">
-      <HelpTOCNode Title="GenericSelectArgs Members" Url="html/a22371d4-ab80-c6ed-89e3-cc0020a43ae7.htm" />
-      <HelpTOCNode Id="3afbbca6-af82-4d60-8990-27bf463e48c3" Title="GenericSelectArgs Constructor " Url="html/b3d0667e-745c-a0fe-cbf6-437b5d699ca5.htm">
-        <HelpTOCNode Title="GenericSelectArgs Constructor " Url="html/edc0f31f-1d76-4aa2-b385-bc356a10b0f3.htm" />
-        <HelpTOCNode Title="GenericSelectArgs Constructor (DataSourceSelectArguments)" Url="html/0c5e8f13-2f3b-ae60-74d5-27fdc50301c8.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="aa1d9c11-eba5-42b5-90f9-a1f6f41dd090" Title="GenericSelectArgs Methods" Url="html/5a2a4961-c719-adda-ee3f-9f6e32215427.htm">
-        <HelpTOCNode Id="bb6ba523-8a17-45e9-b971-e5d6c0df3a18" Title="SetData Method " Url="html/5020a5c6-2b6c-e803-e778-53b95d2fc5cd.htm">
-          <HelpTOCNode Title="SetData Method (IEnumerable)" Url="html/b4f41eb3-d49c-986c-7261-da2312b41e6b.htm" />
-          <HelpTOCNode Title="SetData Method (IQueryable)" Url="html/36e62d20-b530-af20-4b33-e22227b7af74.htm" />
-          <HelpTOCNode Title="SetData Method (IQueryable, Func(IEnumerable(Object), IQueryable))" Url="html/435aeb47-bbbb-ba45-104e-4b58b7cc468a.htm" />
-          <HelpTOCNode Title="SetData Method (IQueryable, Boolean, Boolean)" Url="html/5fbb4af9-ae48-5f6f-e31e-795e4869e6ae.htm" />
-          <HelpTOCNode Title="SetData Method (IQueryable, Func(IEnumerable(Object), IQueryable), Boolean, Boolean)" Url="html/5b2aceeb-3ad6-fa77-5894-a53c019d76df.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="SetPagedData Method " Url="html/dff61224-97e2-a3e8-11c7-c1eaabbb24f6.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="5dfae4dd-e486-4ed8-87b7-0a8a154546d2" Title="GenericSelectArgs Properties" Url="html/55df2270-0423-50fb-fecb-4311e0a6206b.htm">
-        <HelpTOCNode Title="AutoPage Property " Url="html/21503a1c-48db-8ee7-383f-47f29fd80e9b.htm" />
-        <HelpTOCNode Title="AutoSort Property " Url="html/6e214e32-0d9e-59ae-f726-2409c0e712d5.htm" />
-        <HelpTOCNode Title="DataSource Property " Url="html/34dbb290-1dcb-0926-e268-50e20630f317.htm" />
-        <HelpTOCNode Title="SelectArguments Property " Url="html/b2c86926-f775-aae2-aba0-51ee29e729c8.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="9b2fd0e9-1c3a-4028-a0ec-8942f73b7c7c" Title="GenericUpdateArgs Class" Url="html/efa8a921-eede-5722-fb38-2d3b778d0d41.htm">
-      <HelpTOCNode Title="GenericUpdateArgs Members" Url="html/fb610857-aa41-7e51-4974-bdecf82ad72f.htm" />
-      <HelpTOCNode Title="GenericUpdateArgs Constructor " Url="html/c6c91d12-1399-a7dc-9b79-21b5f39e0d35.htm" />
-      <HelpTOCNode Id="b98dd60d-d2d7-4b1d-933a-8a82031959a3" Title="GenericUpdateArgs Methods" Url="html/59133eca-ad2c-d613-b846-b5b29b591524.htm">
-        <HelpTOCNode Title="GetOldDataItem(T) Method " Url="html/de637f90-5f0a-53d7-083f-f02a1ee7412b.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Id="7be3f8ca-f80a-452a-915b-f5f826138a23" Title="GenericUpdateArgs Properties" Url="html/e8d955a2-59b4-c44a-b8bb-bd6e631374fc.htm">
-        <HelpTOCNode Title="OldValues Property " Url="html/e60b3c8c-eb95-a299-2aff-5f616c9d0008.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="f98a38bc-f635-49ac-92e2-02abe06f87f0" Title="GenericUtility Class" Url="html/e3907c71-3dd7-111b-d2aa-5085b50e1ac0.htm">
-      <HelpTOCNode Title="GenericUtility Members" Url="html/71cf312f-b963-2dfe-0c3e-d42693f002ee.htm" />
-      <HelpTOCNode Id="d62df53a-2c74-4e57-8ae0-e6bf57e1a41c" Title="GenericUtility Methods" Url="html/5edafaba-03f6-7569-32fc-ee0bf6595287.htm">
-        <HelpTOCNode Title="BuildObject(T) Method " Url="html/128d58aa-f806-a67e-43fb-d63b6821c6c1.htm" />
-        <HelpTOCNode Id="e18282e6-bc7e-4078-9575-f233474712bb" Title="ConvertTo Method " Url="html/c2e08221-f047-08fd-ca41-9ef4891fc479.htm">
-          <HelpTOCNode Title="ConvertTo(T) Method (Object)" Url="html/b4956fc4-47b4-aa69-e89c-25196873ab23.htm" />
-          <HelpTOCNode Title="ConvertTo Method (Object, Type)" Url="html/f080421d-0d69-b71e-f800-956923d99c6c.htm" />
-        </HelpTOCNode>
-        <HelpTOCNode Title="Page Method " Url="html/78dd9476-a753-ea23-0dba-f799b6e47da3.htm" />
-        <HelpTOCNode Title="Sort Method " Url="html/0bd97261-7908-f28f-8632-6005d4aaa753.htm" />
-      </HelpTOCNode>
-    </HelpTOCNode>
-    <HelpTOCNode Id="b7c16ce2-8d2c-4d83-8cd0-b86e2cb71c6c" Title="OCDataSource(TContext, TElement) Class" Url="html/74b1dea7-a8d2-c358-b2a7-04ea126e0ca0.htm">
-      <HelpTOCNode Title="OCDataSource(TContext, TElement) Members" Url="html/1526c8a0-4a4b-2aec-47f5-7d99b3cf1187.htm" />
-      <HelpTOCNode Title="OCDataSource(TContext, TElement) Constructor " Url="html/9c3d571e-60f5-179d-8a1a-114f1ed94fbe.htm" />
-      <HelpTOCNode Id="9ee07244-9b85-4f27-bf02-7e4f0fda40df" Title="OCDataSource(TContext, TElement) Fields" Url="html/3351139c-b62b-d718-4d66-2abce490b274.htm">
-        <HelpTOCNode Title="ViewName Field" Url="html/1fcf3bde-ebe4-9550-b18d-aec019f36a90.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="OCDataSource(TContext, TElement) Methods" Url="html/5b8f796f-0d01-fb63-67df-456e9e92a939.htm" />
-      <HelpTOCNode Id="9f53f5a4-9274-49fa-8c5d-9798f0c782b7" Title="OCDataSource(TContext, TElement) Properties" Url="html/555ae724-42ca-6c0f-1ef5-9fd4337768e9.htm">
-        <HelpTOCNode Title="Context Property " Url="html/cf3ba697-87eb-4b2c-9b88-8df77375ac3d.htm" />
-      </HelpTOCNode>
-      <HelpTOCNode Title="OCDataSource(TContext, TElement) Events" Url="html/f9993b11-b9e6-8450-4d9e-479896ceb64f.htm" />
-    </HelpTOCNode>
-  </HelpTOCNode>
-  <HelpTOCNode Id="de31f9ea-3079-40ea-9089-8819cdac58e6" Title="System.Linq.Dynamic Namespace" Url="html/4193e9c4-2d65-59cb-5c75-2ae8143d6570.htm">
-    <HelpTOCNode Id="810dc1ce-adef-4b91-9481-982ce31cde90" Title="DynamicClass Class" Url="html/558c3d5e-a640-caf0-0888-6dd311d46f91.htm">
+  <HelpTOCNode Id="362f47e5-c4b6-4310-9513-f9f7ccbddb2a" Title="System.Linq.Dynamic Namespace" Url="html/4193e9c4-2d65-59cb-5c75-2ae8143d6570.htm">
+    <HelpTOCNode Id="6a9c7fa9-645b-41ce-962b-c5a2d6d1cb75" Title="DynamicClass Class" Url="html/558c3d5e-a640-caf0-0888-6dd311d46f91.htm">
       <HelpTOCNode Title="DynamicClass Members" Url="html/ecddb75e-b997-f396-4ae4-81bdd844cd7d.htm" />
       <HelpTOCNode Title="DynamicClass Constructor " Url="html/c14fedc5-83de-be3a-38d0-a92cd11ba4f0.htm" />
-      <HelpTOCNode Id="f228e0a5-9ead-4d42-97f8-41413cd2ed9a" Title="DynamicClass Methods" Url="html/ecda66a5-3341-22dd-bd20-f1c23df196e8.htm">
+      <HelpTOCNode Id="53d10126-71b0-4ba8-b255-66df10d34635" Title="DynamicClass Methods" Url="html/ecda66a5-3341-22dd-bd20-f1c23df196e8.htm">
         <HelpTOCNode Title="ToString Method " Url="html/9786dfe7-9e64-3142-6a70-cdd875bda1a6.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="ed933782-55cd-44e2-8bf6-a1c2b1be9c42" Title="DynamicExpression Class" Url="html/904191a0-6e7a-1812-6ff9-5c3c895f5a15.htm">
+    <HelpTOCNode Id="6e84ee6f-37e7-48aa-882f-62540703ba6f" Title="DynamicExpression Class" Url="html/904191a0-6e7a-1812-6ff9-5c3c895f5a15.htm">
       <HelpTOCNode Title="DynamicExpression Members" Url="html/c01c9ed5-9bfd-aaee-4169-5cb153ecaf0b.htm" />
-      <HelpTOCNode Id="49747cde-6890-40d8-a9c5-bcceb53a9fff" Title="DynamicExpression Methods" Url="html/2d565ff6-3972-44df-2bd4-d9be33eddb5c.htm">
-        <HelpTOCNode Id="d3240601-dd07-445e-9403-956788c31d06" Title="CreateClass Method " Url="html/47bc807e-8241-96ef-cfe1-1974ba427f09.htm">
+      <HelpTOCNode Id="76753e0c-2865-44a5-9e84-c294b943b0cd" Title="DynamicExpression Methods" Url="html/2d565ff6-3972-44df-2bd4-d9be33eddb5c.htm">
+        <HelpTOCNode Id="3d3093ef-b728-416e-893a-322e146fcd12" Title="CreateClass Method " Url="html/47bc807e-8241-96ef-cfe1-1974ba427f09.htm">
           <HelpTOCNode Title="CreateClass Method (IEnumerable(DynamicProperty))" Url="html/0d03b139-34ff-bf35-669a-46fc8ed44026.htm" />
           <HelpTOCNode Title="CreateClass Method (DynamicProperty[])" Url="html/051e03e1-4676-e7f4-3894-a5105eec1d52.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Parse Method " Url="html/5799df07-60cd-1fbf-d6c6-2964f0dc1ea6.htm" />
-        <HelpTOCNode Id="e8e17305-fab2-4e60-a64b-455ed2fba3b3" Title="ParseLambda Method " Url="html/64c9c68c-e44b-19d0-be7c-aa0214b9076e.htm">
+        <HelpTOCNode Id="0467ffb8-b59d-4ecf-abe8-fe34c18f2b82" Title="ParseLambda Method " Url="html/64c9c68c-e44b-19d0-be7c-aa0214b9076e.htm">
           <HelpTOCNode Title="ParseLambda(T, S) Method (String, Object[])" Url="html/ee743f07-dcc2-77a6-7fe6-1fd784ea7a25.htm" />
           <HelpTOCNode Title="ParseLambda Method (ParameterExpression[], Type, String, Object[])" Url="html/b7dc4475-52dd-51b1-9068-2b54bf0a11ca.htm" />
           <HelpTOCNode Title="ParseLambda Method (Type, Type, String, Object[])" Url="html/87911305-27dc-780a-a8e1-35d887dc99ac.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="72b09996-6db4-463c-b731-b16883f77bd3" Title="DynamicProperty Class" Url="html/51999dba-075c-fae6-e155-384ea61e71bd.htm">
+    <HelpTOCNode Id="922d0759-6bda-4045-8bba-e7821ab10ce6" Title="DynamicProperty Class" Url="html/51999dba-075c-fae6-e155-384ea61e71bd.htm">
       <HelpTOCNode Title="DynamicProperty Members" Url="html/8a65e8ad-8c17-7aae-ffd1-3717dd71d5c2.htm" />
       <HelpTOCNode Title="DynamicProperty Constructor " Url="html/7fd6d8bf-aba1-f43b-0d76-814fe174dd65.htm" />
       <HelpTOCNode Title="DynamicProperty Methods" Url="html/891e13fa-2090-7af2-01d2-9b39f07cabe0.htm" />
-      <HelpTOCNode Id="0e4f4af8-f499-41e1-b0de-bb71d5e3cbbd" Title="DynamicProperty Properties" Url="html/17e52dc0-b2cb-7f44-0e46-e27b3d4bfc25.htm">
+      <HelpTOCNode Id="190756d7-2728-47c8-9af7-1ab80cc2a414" Title="DynamicProperty Properties" Url="html/17e52dc0-b2cb-7f44-0e46-e27b3d4bfc25.htm">
         <HelpTOCNode Title="Name Property " Url="html/adeca954-831e-7cc3-d79c-b39d459d9fcb.htm" />
         <HelpTOCNode Title="Type Property " Url="html/ba1c7d35-4aa6-635e-ee95-f53443dcf7b0.htm" />
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="0b3ba5b3-ddb8-4e27-b0b1-80dec925a97e" Title="DynamicQueryable Class" Url="html/bae60e6f-256c-1882-5c92-c858703123e3.htm">
+    <HelpTOCNode Id="14b5ba3e-1f4a-44a6-8269-b5b0ad7304cf" Title="DynamicQueryable Class" Url="html/bae60e6f-256c-1882-5c92-c858703123e3.htm">
       <HelpTOCNode Title="DynamicQueryable Members" Url="html/8155baac-996f-5ecf-0abe-cf70951fe102.htm" />
-      <HelpTOCNode Id="5b5c8712-1358-4b0a-a44e-4b07e9a1a259" Title="DynamicQueryable Methods" Url="html/9156b23c-cf8f-881c-d7d8-fe2e561b13e5.htm">
+      <HelpTOCNode Id="a9329577-66d5-4ffe-9fa9-bba7dcc30d8f" Title="DynamicQueryable Methods" Url="html/9156b23c-cf8f-881c-d7d8-fe2e561b13e5.htm">
         <HelpTOCNode Title="Any Method " Url="html/130d2d84-4ff9-dda1-d062-ceaeaca3845a.htm" />
         <HelpTOCNode Title="Count Method " Url="html/06e779e6-8449-ffd6-1422-3bd6c110565a.htm" />
         <HelpTOCNode Title="GroupBy Method " Url="html/0262d4b6-ffb5-c34c-2d8b-78b7b047444c.htm" />
-        <HelpTOCNode Id="1aa340d7-1adf-4135-96e5-25f251b0f5d7" Title="OrderBy Method " Url="html/fb851847-7124-07e6-f2c7-4e0e6f268bb6.htm">
+        <HelpTOCNode Id="4889ad6d-8e99-4030-a1b3-c0811a41e462" Title="OrderBy Method " Url="html/fb851847-7124-07e6-f2c7-4e0e6f268bb6.htm">
           <HelpTOCNode Title="OrderBy Method (IQueryable, String, Object[])" Url="html/8aa9cbf6-da46-f6ee-49ab-45d3d42c2276.htm" />
           <HelpTOCNode Title="OrderBy(T) Method (IQueryable(T), String, Object[])" Url="html/19e1dbe6-91c6-f6b2-099e-95b8f6fc4d36.htm" />
         </HelpTOCNode>
         <HelpTOCNode Title="Select Method " Url="html/22501155-d647-e227-3ecc-bec655bb189f.htm" />
         <HelpTOCNode Title="Skip Method " Url="html/6c55e76f-701d-419c-83ec-f13e16151a2e.htm" />
         <HelpTOCNode Title="Take Method " Url="html/7944d895-0474-da9d-7090-532de3eb9a99.htm" />
-        <HelpTOCNode Id="fdfdcfec-3c9d-450c-af6f-c9c2d5d77a7c" Title="Where Method " Url="html/7b456d4c-7294-4d66-6baf-bb298615907c.htm">
+        <HelpTOCNode Id="3e33f835-4327-4447-9f7e-7d26276ed474" Title="Where Method " Url="html/7b456d4c-7294-4d66-6baf-bb298615907c.htm">
           <HelpTOCNode Title="Where Method (IQueryable, String, Object[])" Url="html/6728f675-1f82-198a-9d29-1282fa987bdb.htm" />
           <HelpTOCNode Title="Where(T) Method (IQueryable(T), String, Object[])" Url="html/4418177f-c2c5-0e0e-39fa-f078aa9fb831.htm" />
         </HelpTOCNode>
       </HelpTOCNode>
     </HelpTOCNode>
-    <HelpTOCNode Id="14662346-b903-4e38-8c26-ccb44bf35a42" Title="ParseException Class" Url="html/5842a0bf-39d1-305f-e166-8bf5603a2bc8.htm">
+    <HelpTOCNode Id="ae475d6d-5865-44e4-885d-c7599891ee03" Title="ParseException Class" Url="html/5842a0bf-39d1-305f-e166-8bf5603a2bc8.htm">
       <HelpTOCNode Title="ParseException Members" Url="html/bda0d12c-9196-f62d-271e-317bafef261d.htm" />
       <HelpTOCNode Title="ParseException Constructor " Url="html/b9a9f5e9-8c03-6f3f-bac3-b8ee973381e0.htm" />
-      <HelpTOCNode Id="b93a81e7-90d9-48c0-a8ab-bf655c50b1fc" Title="ParseException Methods" Url="html/2af1dea9-4bd4-5df0-f953-b8b578544e1a.htm">
+      <HelpTOCNode Id="6dc19c0a-b6fd-4984-97d8-955743c23c11" Title="ParseException Methods" Url="html/2af1dea9-4bd4-5df0-f953-b8b578544e1a.htm">
         <HelpTOCNode Title="ToString Method " Url="html/7988172f-f472-b77c-749a-7b89ddeeb5d7.htm" />
       </HelpTOCNode>
-      <HelpTOCNode Id="5791f961-d1ee-4be7-bda5-682eef3766a1" Title="ParseException Properties" Url="html/7b78b438-692a-59ad-7c2d-c5b34fc145f2.htm">
+      <HelpTOCNode Id="cc8339e7-daba-4770-9dea-19fedb3714f1" Title="ParseException Properties" Url="html/7b78b438-692a-59ad-7c2d-c5b34fc145f2.htm">
         <HelpTOCNode Title="Position Property " Url="html/f5973da6-cbd8-c014-a39b-f62bc6bd585b.htm" />
       </HelpTOCNode>
       <HelpTOCNode Title="ParseException Events" Url="html/c822914e-100e-0e47-eed8-0ab8e3b0fc23.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="51a235e6-f9a0-49d9-8ffc-eb06240edf71" Title="System.Web.UI.WebControls Namespace" Url="html/d62aaf5d-d0f8-8bf6-4764-eb0829d2b1b5.htm">
+    <HelpTOCNode Id="93f20409-24bf-408e-92c9-eec9096c5481" Title="DbDataSource Class" Url="html/8437ba14-f9d2-aaa2-9426-0be251eeb4bc.htm">
+      <HelpTOCNode Title="DbDataSource Members" Url="html/acbc412f-7722-5cdc-7729-b5226e074882.htm" />
+      <HelpTOCNode Id="a2fa3382-e5c9-41aa-90f9-7c301adfa474" Title="DbDataSource Constructor " Url="html/10a71b1c-319a-ab4d-4438-8bad1249755a.htm">
+        <HelpTOCNode Title="DbDataSource Constructor " Url="html/f0840e4d-7d15-58d7-da12-796fa3df3332.htm" />
+        <HelpTOCNode Title="DbDataSource Constructor (String)" Url="html/d45ca81f-c5f7-31f2-b9b9-15fca74286e0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="98d43f50-58bf-4ba9-be1d-954f20be677d" Title="DbDataSource Methods" Url="html/3e77a239-a724-f601-da80-f3a44164f49f.htm">
+        <HelpTOCNode Title="OnDataBinding Method " Url="html/afdc80e6-5799-023c-8826-b2733b0594f5.htm" />
+        <HelpTOCNode Title="OnDelete Method " Url="html/606985f9-26b1-4167-77f9-c435dcc9d83f.htm" />
+        <HelpTOCNode Title="OnInsert Method " Url="html/a0e7e622-f94b-abf3-92be-14a3f79a2cbf.htm" />
+        <HelpTOCNode Title="OnSelect Method " Url="html/bfc954fa-95d6-22e9-fd2c-302d44cc25b3.htm" />
+        <HelpTOCNode Title="OnUnload Method " Url="html/7b1d8183-74ac-f22b-1895-e4ad45242224.htm" />
+        <HelpTOCNode Title="OnUpdate Method " Url="html/2f552211-046e-f9b2-601a-fe6661fb118d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a8d4a688-bdf8-4746-8b38-30525392f567" Title="DbDataSource Properties" Url="html/aab64b00-1a06-6d62-da19-69c56763c082.htm">
+        <HelpTOCNode Title="Context Property " Url="html/d2201a78-0900-e282-da97-46d200ef6264.htm" />
+        <HelpTOCNode Title="ContextType Property " Url="html/384ed670-7558-f76c-59c1-2edbb434d9ee.htm" />
+        <HelpTOCNode Title="CreateContext Property " Url="html/f76714c9-572e-6589-e644-a92593f7584f.htm" />
+        <HelpTOCNode Title="CreateObjectContext Property " Url="html/02efae66-05d4-9207-8f0f-18db718777f6.htm" />
+        <HelpTOCNode Title="Data Property " Url="html/3eb49150-c10c-1c0a-7b0c-3b14dfeadc25.htm" />
+        <HelpTOCNode Title="Database Property " Url="html/76c49f3f-7d45-26e5-0921-3c47d5c737c3.htm" />
+        <HelpTOCNode Title="EnableDelete Property " Url="html/8be2af70-8098-a3d4-b3a0-1fb00a1b0a2e.htm" />
+        <HelpTOCNode Title="EnableInsert Property " Url="html/11727c77-6809-e8b0-ad7c-f24ddbbe168a.htm" />
+        <HelpTOCNode Title="EnableUpdate Property " Url="html/28777d6c-590c-adf2-2567-33d98aade086.htm" />
+        <HelpTOCNode Title="EntitySetName Property " Url="html/eaf724e4-fb1b-5bc2-d5e7-81d17ce39b06.htm" />
+        <HelpTOCNode Title="Projection Property " Url="html/ee5a7d96-5cc5-af47-1103-33004302aa2b.htm" />
+        <HelpTOCNode Title="Select Property " Url="html/086bfbe6-953b-3b81-69ba-0cdba8c080d1.htm" />
+        <HelpTOCNode Title="Set Property " Url="html/922c2dd5-d9ca-fb29-3197-649901f2991d.htm" />
+        <HelpTOCNode Title="Source Property " Url="html/b64d8550-e8ac-b06b-7ae9-1392d43c405d.htm" />
+        <HelpTOCNode Title="Where Property " Url="html/35c87029-dc6e-bf1d-732d-a5c06306dfa6.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DbDataSource Events" Url="html/6bc8774e-3a2c-e313-353e-284b748f1419.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d6e85820-7f2b-4add-a9f8-6d7d576fd876" Title="DbDataSource(TContext, TElement) Class" Url="html/e48bea0a-0ba3-bef2-642d-be8f30a8efeb.htm">
+      <HelpTOCNode Title="DbDataSource(TContext, TElement) Members" Url="html/6e8e9ae6-a579-caf5-bf38-335a7327d965.htm" />
+      <HelpTOCNode Title="DbDataSource(TContext, TElement) Constructor " Url="html/e17e107a-80ea-5240-20e9-382cb1139f7b.htm" />
+      <HelpTOCNode Id="51492096-101b-491e-a274-9a8c784fc98b" Title="DbDataSource(TContext, TElement) Fields" Url="html/b7d7bc1f-a1a9-4f01-bd42-817365a29251.htm">
+        <HelpTOCNode Title="ViewName Field" Url="html/b7aefa05-3950-7862-543e-2bbeb8a94c65.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="beb2b086-f294-492e-859e-7938bd85e90b" Title="DbDataSource(TContext, TElement) Methods" Url="html/e3cba652-88e3-ddd8-d1a8-127c5cb85fed.htm">
+        <HelpTOCNode Title="OnDataBinding Method " Url="html/c9e23dec-639e-66c4-5f0e-3d3e16fe2d1a.htm" />
+        <HelpTOCNode Title="OnDelete Method " Url="html/6d202c68-2b0b-7a84-a7de-827c9d912b8f.htm" />
+        <HelpTOCNode Title="OnInsert Method " Url="html/af650445-6340-7996-2534-bb16dc6240d6.htm" />
+        <HelpTOCNode Title="OnSelect Method " Url="html/acf88a53-4516-2d8d-9689-7aedd62de572.htm" />
+        <HelpTOCNode Title="OnUnload Method " Url="html/912e5e34-b0cc-3581-bf90-e16e1f0dca2b.htm" />
+        <HelpTOCNode Title="OnUpdate Method " Url="html/feafc87e-733a-6d2d-d721-32d1d2549686.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="2ee0a09f-d561-47c1-b039-b08790848b20" Title="DbDataSource(TContext, TElement) Properties" Url="html/eea13e5c-7542-5cb8-b78a-46112506d1a9.htm">
+        <HelpTOCNode Title="Context Property " Url="html/efaf0c61-dbe0-c391-7192-4006527c817e.htm" />
+        <HelpTOCNode Title="CreateContext Property " Url="html/98551c34-8385-f2a6-ea3b-4a7f6be65768.htm" />
+        <HelpTOCNode Title="CreateObjectContext Property " Url="html/45ecc0a9-e674-2534-2e04-c3b9e0956d92.htm" />
+        <HelpTOCNode Title="Data Property " Url="html/e11defa7-a75a-9dc2-a933-33e57c507634.htm" />
+        <HelpTOCNode Title="Database Property " Url="html/167c429a-16d4-7f4a-4ee0-5aa0c7afc4bc.htm" />
+        <HelpTOCNode Title="EnableDelete Property " Url="html/7ad21ae2-0de2-68a0-a501-6aa934a5cb95.htm" />
+        <HelpTOCNode Title="EnableInsert Property " Url="html/12599c46-e172-d118-c439-32bb9ef28036.htm" />
+        <HelpTOCNode Title="EnableUpdate Property " Url="html/7dae0578-8d7d-8275-dfac-4eb64d670b65.htm" />
+        <HelpTOCNode Title="Projection Property " Url="html/5625cb05-1ce6-8b5d-f043-f583e981a24d.htm" />
+        <HelpTOCNode Title="Select Property " Url="html/9eddefac-70d2-abd0-46aa-ba999ff9853f.htm" />
+        <HelpTOCNode Title="Where Property " Url="html/3300c2ee-f2ca-7435-9247-36ff1141adcc.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="DbDataSource(TContext, TElement) Events" Url="html/d3992310-40ed-f874-b77b-5c5ceeb2f273.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="3a03ff1d-3868-430e-b1ee-bf91c0a98203" Title="GenericArgsDataItem Class" Url="html/d741ffaf-4e91-0676-8d40-11c0a8a63bc5.htm">
+      <HelpTOCNode Title="GenericArgsDataItem Members" Url="html/7c720c9d-008b-4a04-12d7-1fd4214e7ddb.htm" />
+      <HelpTOCNode Title="GenericArgsDataItem Constructor " Url="html/bed2bb60-79c5-6e8e-1a2b-62c9d15f4f5d.htm" />
+      <HelpTOCNode Id="902d8b22-33b0-4592-85e8-6450dbe6f439" Title="GenericArgsDataItem Methods" Url="html/fc5f8ee8-5509-d016-d41c-f8c1cb4b033a.htm">
+        <HelpTOCNode Title="Fill(T) Method " Url="html/13eab955-f7d2-605e-3290-0bd8500b5bee.htm" />
+        <HelpTOCNode Title="Value(T) Method " Url="html/b340844f-654d-2a90-7158-069e1d1cca0b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="78b28fc3-9adb-47ef-b70c-df667b55a0b9" Title="GenericArgsDataItem Properties" Url="html/64b29269-19d7-aefc-813b-819631665fce.htm">
+        <HelpTOCNode Title="Values Property " Url="html/8d581db5-fbdf-027e-910d-41b995ab64c2.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6291302a-0f3f-4440-b9ff-a718ebc2df8f" Title="GenericDataArgs Class" Url="html/2ec37c5f-aa4e-6aa6-7cf3-676da7358a11.htm">
+      <HelpTOCNode Title="GenericDataArgs Members" Url="html/ca9b6b6e-338f-7131-ebdc-b6b5993c0c5a.htm" />
+      <HelpTOCNode Title="GenericDataArgs Constructor " Url="html/2645923d-3911-eb76-b0b4-ca6e0cdf9b07.htm" />
+      <HelpTOCNode Id="7d261a0b-b8ea-4086-9dfe-589a47de8fea" Title="GenericDataArgs Methods" Url="html/a6e3eca6-cb96-f0c9-7508-a950795a122e.htm">
+        <HelpTOCNode Title="FillDataItem(T) Method " Url="html/4fc60c09-1a3e-be21-dec4-967c8d56c4ea.htm" />
+        <HelpTOCNode Title="GetDataItem(T) Method " Url="html/b72efc5f-8b98-4a33-eef1-346f12e759a4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="94f6d543-1989-4e26-8e6a-cae13ce48f95" Title="GenericDataArgs Properties" Url="html/35cc68fc-b827-d44d-e878-08e42df93b55.htm">
+        <HelpTOCNode Title="DataItem Property " Url="html/6a920f40-6a11-3742-2cf6-80bec050d099.htm" />
+        <HelpTOCNode Title="RowsAffected Property " Url="html/d98c1adb-2456-eb2c-a376-19987b4c233b.htm" />
+        <HelpTOCNode Title="Values Property " Url="html/6bff74b9-f006-0c52-2262-0e46aa2ede26.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1d48aa22-b2a6-4277-9aa7-03276e095fa2" Title="GenericDataSource Class" Url="html/154875dd-ff08-228e-a18d-5cd806bd6093.htm">
+      <HelpTOCNode Title="GenericDataSource Members" Url="html/27af60f9-39d7-a223-d000-11c84d36e56e.htm" />
+      <HelpTOCNode Title="GenericDataSource Constructor " Url="html/8eefaca7-5840-f89c-eadb-a126de93306a.htm" />
+      <HelpTOCNode Id="3e0cd556-da80-421e-9f91-9983ee54b26c" Title="GenericDataSource Methods" Url="html/7bf5e777-d228-9993-aa73-3fbe19a79931.htm">
+        <HelpTOCNode Title="Delete Method " Url="html/270d77fb-62ab-8086-e274-47641c26d82e.htm" />
+        <HelpTOCNode Title="GetView Method " Url="html/bf1e1910-fe78-e3cd-ba30-cfbdd3a335ca.htm" />
+        <HelpTOCNode Title="GetViewNames Method " Url="html/f499d552-8452-ab3e-ad02-5f336f4e9840.htm" />
+        <HelpTOCNode Title="Insert Method " Url="html/76f4e37b-a16b-028f-95d8-c120891e8a4c.htm" />
+        <HelpTOCNode Title="LoadViewState Method " Url="html/a25900f5-367b-942f-58b5-4c6b575f3d15.htm" />
+        <HelpTOCNode Title="OnExecuteDelete Method " Url="html/90845afc-ca6b-f3a6-f4f6-ddcbedfba7d3.htm" />
+        <HelpTOCNode Title="OnExecuteInsert Method " Url="html/94223b88-9b4d-ca91-0f30-92da6a7c6124.htm" />
+        <HelpTOCNode Title="OnExecuteSelect Method " Url="html/13cb914e-6d92-e3cb-bf74-6aa18cd271bf.htm" />
+        <HelpTOCNode Title="OnExecuteUpdate Method " Url="html/901a2fac-141c-5edb-f3c3-e44501b0928e.htm" />
+        <HelpTOCNode Title="SaveViewState Method " Url="html/f74331dc-eb0b-4ec2-166a-79f32c272404.htm" />
+        <HelpTOCNode Title="Select Method " Url="html/e506e679-c53e-693c-7a8f-283aa5a9471a.htm" />
+        <HelpTOCNode Title="Update Method " Url="html/dcf538d6-04c9-d875-8dc5-461777987a15.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0c423256-f68b-43ed-bd27-3a791a678410" Title="GenericDataSource Properties" Url="html/68ed2b85-79d5-bd0d-d5f6-7160b5874515.htm">
+        <HelpTOCNode Title="AutoPage Property " Url="html/94d305eb-c8a9-e925-6a81-dbb5e4368617.htm" />
+        <HelpTOCNode Title="AutoSort Property " Url="html/b2dd50c9-c7b5-d970-761a-8f1398473045.htm" />
+        <HelpTOCNode Title="DataSource Property " Url="html/10d4363e-5a30-72e7-1182-e9659c43dd8f.htm" />
+        <HelpTOCNode Title="DefaultView Property " Url="html/1ef98815-8f6f-6ff7-a400-1e3352636ebd.htm" />
+        <HelpTOCNode Title="DisableSelect Property " Url="html/7291fadd-a97e-3336-2744-4fc4e981cb26.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="795fd0e9-decc-462d-a18e-30d68aee5a3a" Title="GenericDataSource Events" Url="html/3a6fb9b8-20ef-3a16-bf79-b38bfd8df213.htm">
+        <HelpTOCNode Title="ExecuteDelete Event" Url="html/47e3c556-54aa-5f50-b65b-3c9420f84382.htm" />
+        <HelpTOCNode Title="ExecuteInsert Event" Url="html/a0f30dcf-4081-9437-9850-ad4dfa2fb3a6.htm" />
+        <HelpTOCNode Title="ExecuteSelect Event" Url="html/f2d158f3-cb17-3d6f-c0ce-004fd47f443b.htm" />
+        <HelpTOCNode Title="ExecuteUpdate Event" Url="html/09fb2a20-9a9e-8004-4a59-c38b64ed6227.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c92cff2a-481e-4e77-a5f1-bed3872e0153" Title="GenericDataSourceView Class" Url="html/cff27328-e51b-ee46-62af-68f0ee79a9b0.htm">
+      <HelpTOCNode Title="GenericDataSourceView Members" Url="html/2ff2681f-2b33-36f3-cbaf-9af657b063af.htm" />
+      <HelpTOCNode Title="GenericDataSourceView Constructor " Url="html/4c901eb7-419b-47ba-05e4-d5e54cd57ae2.htm" />
+      <HelpTOCNode Id="5dc5c795-9fe6-4e5e-b88f-f82ac39df619" Title="GenericDataSourceView Methods" Url="html/1c32901e-c684-c2bf-1bcd-db679d9fb62b.htm">
+        <HelpTOCNode Title="ExecuteDelete Method " Url="html/3fad1bcc-bf86-2b74-cbb4-e64aed08bf9f.htm" />
+        <HelpTOCNode Title="ExecuteInsert Method " Url="html/fc3f5adc-0819-ed04-c037-88648771c496.htm" />
+        <HelpTOCNode Title="ExecuteSelect Method " Url="html/64e61d29-ef08-ec31-14eb-14d6a299fabb.htm" />
+        <HelpTOCNode Title="ExecuteUpdate Method " Url="html/6bc4406f-aa26-97df-4a7d-08dd2c1101ea.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9266b7dd-6e6d-4a75-ba72-254614a28e35" Title="GenericDataSourceView Properties" Url="html/cea3d338-a99a-df4e-81f3-ff632cf24f5b.htm">
+        <HelpTOCNode Title="CanPage Property " Url="html/32ce2a45-29ef-7d59-b2ec-ea01dd2521d6.htm" />
+        <HelpTOCNode Title="CanRetrieveTotalRowCount Property " Url="html/30bc42e9-40df-e708-9dd5-94ecbec67705.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="GenericDataSourceView Events" Url="html/72c513b1-a3bf-7fa2-668f-96eee14dc821.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="03f80437-54e3-43c8-8b65-6cd590a24ad7" Title="GenericKeyDataArgs Class" Url="html/be4b3bb2-2635-9f2c-9b40-bb66f3e3d26f.htm">
+      <HelpTOCNode Title="GenericKeyDataArgs Members" Url="html/99f96dce-089c-24a4-d544-08d13e534d93.htm" />
+      <HelpTOCNode Title="GenericKeyDataArgs Constructor " Url="html/306998df-4ba4-45ed-7f0b-9ad23ee88f6e.htm" />
+      <HelpTOCNode Id="ee5499b2-be61-48f8-b449-a82c3140cae2" Title="GenericKeyDataArgs Methods" Url="html/6c764886-97c4-c08b-387d-45531bb5b6a3.htm">
+        <HelpTOCNode Title="FillDataItem(T) Method " Url="html/010af6a8-7200-7234-39ae-bb37adf5db06.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f802c444-d9ef-4079-88cc-aa3c1e5498fc" Title="GenericKeyDataArgs Properties" Url="html/cb1129cd-1d2e-65b1-a45d-e8ce721d606e.htm">
+        <HelpTOCNode Title="Keys Property " Url="html/e5e6e2da-6a22-e4f5-62be-89bacecdb5be.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="999f7667-895f-4571-baa4-aa2d805c0825" Title="GenericSelectArgs Class" Url="html/3bcb595a-2469-1d53-f494-a48963654497.htm">
+      <HelpTOCNode Title="GenericSelectArgs Members" Url="html/33d0b0c8-0c82-ebba-a3b5-5249615d8881.htm" />
+      <HelpTOCNode Id="2a8106bb-2d94-4c46-845e-5e55823c74b7" Title="GenericSelectArgs Constructor " Url="html/7b005998-2a0e-bf6a-2ee5-d908d027472f.htm">
+        <HelpTOCNode Title="GenericSelectArgs Constructor " Url="html/bf19034a-ec04-ca8e-e75a-ca5a3b9ec9a7.htm" />
+        <HelpTOCNode Title="GenericSelectArgs Constructor (DataSourceSelectArguments)" Url="html/35d1cf60-88f7-9ebe-bce0-fa578e5e5b13.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="3a17a850-cfe1-4f46-86cb-4fcbc79ed036" Title="GenericSelectArgs Methods" Url="html/238a19cf-2c34-d7cd-7f66-590f78f73c44.htm">
+        <HelpTOCNode Id="b3ad9a11-9a9c-419e-b5dd-c5d9d74fa9a6" Title="SetData Method " Url="html/ff465cfa-594a-8c85-fc86-2da69181364e.htm">
+          <HelpTOCNode Title="SetData Method (IEnumerable)" Url="html/425c9d55-5443-3002-b94e-2dc298318514.htm" />
+          <HelpTOCNode Title="SetData Method (IQueryable)" Url="html/2635215a-eb5a-8af4-fbe8-40ecabf6c09a.htm" />
+          <HelpTOCNode Title="SetData Method (IQueryable, Func(IEnumerable(Object), IQueryable))" Url="html/c98390f2-eda4-d68f-30a9-af031cc9e74b.htm" />
+          <HelpTOCNode Title="SetData Method (IQueryable, Boolean, Boolean)" Url="html/82d161c6-b230-5381-ab5a-82ccbe6197e3.htm" />
+          <HelpTOCNode Title="SetData Method (IQueryable, Func(IEnumerable(Object), IQueryable), Boolean, Boolean)" Url="html/5956e8e5-b001-3ee7-570f-0f16ba66bc8b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="SetPagedData Method " Url="html/e983c329-a7d6-837e-4910-2f0e4431a6ae.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="8117ac0b-e1d9-447f-aedf-130f06883684" Title="GenericSelectArgs Properties" Url="html/ff954f61-3d86-1540-63cd-1502108e0b3d.htm">
+        <HelpTOCNode Title="AutoPage Property " Url="html/9442141b-58e0-a399-27fd-a60d1cb9af5a.htm" />
+        <HelpTOCNode Title="AutoSort Property " Url="html/e916b55c-a0a4-711b-7403-1dcfb6fd413e.htm" />
+        <HelpTOCNode Title="DataSource Property " Url="html/4d36bdfc-757c-930d-a0f8-2692b4e50eda.htm" />
+        <HelpTOCNode Title="SelectArguments Property " Url="html/aa3b8cd3-ea82-b8b5-395a-db0a0e5bc7ae.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="737e5f94-c3d0-4f16-9224-9be4ed051526" Title="GenericUpdateArgs Class" Url="html/83e1f9ba-7771-a27a-7c07-926f8d8cc730.htm">
+      <HelpTOCNode Title="GenericUpdateArgs Members" Url="html/3df0c2ca-a7b4-c96e-a65b-4d8ac7d27a67.htm" />
+      <HelpTOCNode Title="GenericUpdateArgs Constructor " Url="html/d9e6a396-c2a8-ef2a-fa9a-691c7bbc832c.htm" />
+      <HelpTOCNode Id="57edfb05-b48a-4f00-859c-c8ed6b4b5cf5" Title="GenericUpdateArgs Methods" Url="html/f1a6cac6-7668-507f-1c9f-fab5b9c70443.htm">
+        <HelpTOCNode Title="GetOldDataItem(T) Method " Url="html/a849ae03-54c7-d993-02b1-091a25a70528.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="f414f4dc-bd78-4159-8c62-e9cc9e8e0928" Title="GenericUpdateArgs Properties" Url="html/c40b95f0-dc94-690c-fee2-cfb034d1ad25.htm">
+        <HelpTOCNode Title="OldValues Property " Url="html/c4845c65-8846-da1b-2f5a-71d16e3dce7d.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f2b49fd4-a444-4566-be8b-4a8fbd607885" Title="GenericUtility Class" Url="html/dbfb6fbf-e334-5284-4468-d584f9a44315.htm">
+      <HelpTOCNode Title="GenericUtility Members" Url="html/75e65225-1a85-c578-8e98-d4729096a4a1.htm" />
+      <HelpTOCNode Id="47e593fa-ec12-414a-85fd-72b74b34e48f" Title="GenericUtility Methods" Url="html/efef333a-408c-ec83-bbcc-8cb64d3af7d9.htm">
+        <HelpTOCNode Title="BuildObject(T) Method " Url="html/3a325920-fc08-02d6-4c3d-ee785a625dde.htm" />
+        <HelpTOCNode Id="446c1bab-2af6-4ee9-ae79-49042f668884" Title="ConvertTo Method " Url="html/3a180d61-33f5-218c-c8ac-541583ed0c14.htm">
+          <HelpTOCNode Title="ConvertTo(T) Method (Object)" Url="html/71afdcc4-358e-c905-e7bd-f60b05120e60.htm" />
+          <HelpTOCNode Title="ConvertTo Method (Object, Type)" Url="html/f74c4e01-5ec1-b29e-c3bc-8e5ecab17c5b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="Page Method " Url="html/9eb915cd-62b6-88f5-cfe2-6c2cf2911e85.htm" />
+        <HelpTOCNode Title="Sort Method " Url="html/0e6c8a7a-9c5b-c635-328d-aaf0a5f49a40.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f854addf-b230-42e4-94d1-29af18181145" Title="OCDataSource(TContext, TElement) Class" Url="html/a6d1df11-a795-dce3-3cfb-1584eb6560ef.htm">
+      <HelpTOCNode Title="OCDataSource(TContext, TElement) Members" Url="html/02fb73fd-7757-b3b4-81bf-6a1cb8ec6a04.htm" />
+      <HelpTOCNode Title="OCDataSource(TContext, TElement) Constructor " Url="html/ec221767-ae5e-2c94-e181-721effcd8ab0.htm" />
+      <HelpTOCNode Title="OCDataSource(TContext, TElement) Methods" Url="html/e7e3d471-856b-3676-ccc7-2aa18095a7d9.htm" />
+      <HelpTOCNode Id="3d9cb18c-974a-4955-b5ca-e922ee70e25c" Title="OCDataSource(TContext, TElement) Properties" Url="html/fbb74498-caec-0538-a5fa-233272235e51.htm">
+        <HelpTOCNode Title="Context Property " Url="html/4c2f7d29-08e7-b2a7-19e7-64590831112e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="OCDataSource(TContext, TElement) Events" Url="html/9c3efcbb-8317-f32c-2aeb-ec07930fa334.htm" />
     </HelpTOCNode>
   </HelpTOCNode>
 </HelpTOC>

@@ -6,7 +6,7 @@ using System.Collections;
 using System.Linq;
 using System.Linq.Dynamic;
 
-namespace Silversite.Web.UI
+namespace System.Web.UI.WebControls 
 {
     /// <summary>
     /// The DataSourceView for the GenericDataSourceControl. This DataSourceView handles the "Select", "Insert", "Update" and "Delete" events of the DataSource.
